@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-03-05 09:11-0800\n"
-"PO-Revision-Date: 2015-04-05 20:37+0200\n"
+"PO-Revision-Date: 2015-04-05 20:55+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: pl <LL@li.org>\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && "
@@ -2756,10 +2756,10 @@ msgid "Editing Inventory"
 msgstr ""
 
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 msgid "Email address"
-msgstr ""
+msgstr "Adres email"
 
 msgid "Email me the instructions"
 msgstr ""
@@ -9080,7 +9080,7 @@ msgid "Username or Email"
 msgstr "Nazwa użytkownika lub Email"
 
 msgid "Username or email does not exist or password is invalid."
-msgstr "Uźytkownik lub email nie istnieje lub hasło jest nieprawidłowe."
+msgstr "Użytkownik lub email nie istnieje lub hasło jest nieprawidłowe."
 
 msgid "Users in Contributor Improvement Program (CIP)"
 msgstr ""
@@ -10587,7 +10587,7 @@ msgstr ""
 
 #, python-format
 msgid "Your current e-mail address is %(email)s "
-msgstr ""
+msgstr "Twój obecny adres email to %(email)s "
 
 msgid "Your draft releases <strong>will be deleted</strong>."
 msgstr ""
