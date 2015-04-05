@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-03-05 09:11-0800\n"
-"PO-Revision-Date: 2015-04-05 20:55+0200\n"
+"PO-Revision-Date: 2015-04-05 21:20+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: pl <LL@li.org>\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && "
@@ -700,7 +700,7 @@ msgid "Access granted"
 msgstr ""
 
 msgid "Account"
-msgstr ""
+msgstr "Konto"
 
 msgid "Account Closed"
 msgstr ""
@@ -1066,7 +1066,7 @@ msgid "Almost there"
 msgstr ""
 
 msgid "Already have an account?"
-msgstr ""
+msgstr "Masz już konto?"
 
 #, python-format
 msgid ""
@@ -1506,7 +1506,7 @@ msgid ""
 msgstr ""
 
 msgid "Buyer"
-msgstr ""
+msgstr "Kupujący"
 
 #, python-format
 msgid "Buyer Awaiting Response notice for Order #%(order_id)s"
@@ -1925,7 +1925,7 @@ msgid "Comments:"
 msgstr ""
 
 msgid "Community"
-msgstr ""
+msgstr "Społeczność"
 
 msgid "Companies etc"
 msgstr ""
@@ -2163,7 +2163,7 @@ msgid "Create an Application"
 msgstr ""
 
 msgid "Create an account now."
-msgstr ""
+msgstr "Rejestracja"
 
 msgid "Create an application"
 msgstr ""
@@ -2630,7 +2630,7 @@ msgid "Don't change offer status"
 msgstr ""
 
 msgid "Don't have an account?"
-msgstr ""
+msgstr "Nie masz konta?"
 
 msgid "Don't miss out on the items still in your cart:"
 msgstr ""
@@ -3084,7 +3084,7 @@ msgid "Forgot Password"
 msgstr ""
 
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Nie pamiętam hasła"
 
 msgid "Format"
 msgstr "Format"
@@ -3351,7 +3351,7 @@ msgid "Help"
 msgstr "Pomoc"
 
 msgid "Help &amp; Support"
-msgstr ""
+msgstr "Pomoc"
 
 msgid "Help Forum Bans"
 msgstr ""
@@ -4473,13 +4473,13 @@ msgid "Log In"
 msgstr "Zaloguj się"
 
 msgid "Log In to Discogs"
-msgstr ""
+msgstr "Zaloguj się do Discogs"
 
 msgid "Log Out"
 msgstr "Wyloguj się"
 
 msgid "Log in."
-msgstr "Zaloguj."
+msgstr "Zaloguj się."
 
 msgid "Log on to"
 msgstr ""
@@ -5345,7 +5345,7 @@ msgid "OK"
 msgstr ""
 
 msgid "OR"
-msgstr ""
+msgstr "ALBO"
 
 msgid "Offer"
 msgstr ""
@@ -6404,7 +6404,7 @@ msgid "Region/State"
 msgstr ""
 
 msgid "Register"
-msgstr ""
+msgstr "Rejestracja"
 
 msgid "Register Using Facebook"
 msgstr ""
@@ -6941,10 +6941,10 @@ msgid "Search Help Docs..."
 msgstr ""
 
 msgid "Search Marketplace"
-msgstr ""
+msgstr "Przeszukaj sklepy"
 
 msgid "Search Results"
-msgstr ""
+msgstr "Wyniki wyszukiwania"
 
 msgid "Search Similar"
 msgstr ""
@@ -7126,7 +7126,7 @@ msgid "Sell-Blocked Releases"
 msgstr ""
 
 msgid "Seller"
-msgstr ""
+msgstr "Sprzedawca"
 
 msgid "Seller Feedback"
 msgstr ""
@@ -7307,7 +7307,7 @@ msgid "Shipped"
 msgstr ""
 
 msgid "Shipping"
-msgstr ""
+msgstr "Wysyłka"
 
 msgid "Shipping Information"
 msgstr ""
