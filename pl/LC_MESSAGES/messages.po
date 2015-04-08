@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-03-05 09:11-0800\n"
-"PO-Revision-Date: 2015-04-07 10:07+0200\n"
+"PO-Revision-Date: 2015-04-08 10:58+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: pl <LL@li.org>\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && "
@@ -372,7 +372,7 @@ msgstr ""
 
 #, python-format
 msgid "%s was added to your friends list."
-msgstr ""
+msgstr "%s został dodany do twoich znajomych."
 
 #, python-format
 msgid "%s's Contributions"
@@ -415,7 +415,7 @@ msgid "* Updates to items I'm selling"
 msgstr ""
 
 msgid "1. General Rules"
-msgstr ""
+msgstr "1. Zasady ogólne"
 
 msgid "1. Log on to"
 msgstr ""
@@ -427,7 +427,7 @@ msgid "11. Release Notes"
 msgstr ""
 
 msgid "12 Months"
-msgstr ""
+msgstr "12 miesięcy"
 
 msgid "12. Tracklisting"
 msgstr ""
@@ -436,22 +436,22 @@ msgid "13. Images"
 msgstr ""
 
 msgid "2. Artist"
-msgstr ""
+msgstr "2. Artysta"
 
 msgid "2. Click on 'Pay' next to the invoice that shows 'Past Due'"
 msgstr ""
 
 msgid "3 Months"
-msgstr ""
+msgstr "3 miesięce"
 
 msgid "3. Select your payment method and complete your payment"
 msgstr ""
 
 msgid "3. Title"
-msgstr ""
+msgstr "3. Tytuł"
 
 msgid "30 days"
-msgstr ""
+msgstr "30 dni"
 
 msgid "4. Label/Catalog"
 msgstr ""
@@ -460,22 +460,22 @@ msgid "5. Barcodes &amp; Identifiers"
 msgstr ""
 
 msgid "6 Months"
-msgstr ""
+msgstr "6 miesięcy"
 
 msgid "6. Format"
 msgstr ""
 
 msgid "7. Country"
-msgstr ""
+msgstr "Kraj"
 
 msgid "8. Release Date"
-msgstr ""
+msgstr "Data wydania"
 
 msgid "9. Genres/Styles"
 msgstr ""
 
 msgid "90 days"
-msgstr ""
+msgstr "90 dni"
 
 msgid "<%= type %> not found."
 msgstr ""
