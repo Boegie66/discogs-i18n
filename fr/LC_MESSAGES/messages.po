@@ -48,7 +48,8 @@ msgid "%(action)s on %(objname)s\n"
 "%(objurl)s\n"
 ""
 msgstr "%(action) sur %(objname)s\n"
-"que vous avez effectué pour une Proposition ou une Contribution. %(objurl)s"
+"que vous avez effectué pour une Proposition ou une Contribution. %(objurl)s\n"
+""
 
 #. Syntaxe
 #: 
@@ -438,9 +439,7 @@ msgstr "<mark><strong>Votre compte sera définitivement supprimé.</strong></mar
 
 #: 
 msgid "<strong>Add</strong> new listings"
-msgstr "<strong>Ajouter</strong> de nouveaux listings.\n"
-"\n"
-""
+msgstr "<strong>Ajouter</strong> de nouveaux listings."
 
 #: 
 msgid "<strong>Admin Notice:</strong> Due to inactivity on this account, Home Page and Profile fields are not publicly visible."
@@ -659,8 +658,7 @@ msgstr "Nom du compte"
 
 #: 
 msgid "Account Notifications"
-msgstr "Notifications du compte\n"
-""
+msgstr "Notifications du compte"
 
 #: 
 msgid "Account Verification"
@@ -1320,8 +1318,7 @@ msgstr "Si vous avez déjà payé cette commande, nous vous conseillons fortemen
 
 #: 
 msgid "Attach A File"
-msgstr "Joindre un fichier\n"
-""
+msgstr "Joindre un fichier"
 
 #: 
 msgid "Attach File"
@@ -1576,8 +1573,7 @@ msgstr "Options de navigation"
 
 #: 
 msgid "Bugs and Feature Requests"
-msgstr "\n"
-""
+msgstr "Bogues et demande d'ajout de fonctionnalités"
 
 #: 
 msgid "Building something cool? Check out our API!"
@@ -2909,8 +2905,7 @@ msgid "Discogs is the largest database of music information. Each month, million
 "bright, dedicated, innovative and highly motivated people to help us realize\n"
 "the vision of Discogs: To be one of the premier websites for music\n"
 "enthusiasts everywhere."
-msgstr "Discogs est la plus grande base de données d'informations sur la musique. Chaque mois, des millions d'internautes utilisent Discogs pour s'informer, acheter et vendre. Dans notre une petite entreprise créative la contribution de chaque employé est importante. En pleine expansion, nous sommes à la recherche de personnes brillantes, dévouées, innovantes et très motivées afin de nous aider à réaliser la vision de Discogs: devenir le premier site pour les passionnés de musique du monde entier. \n"
-""
+msgstr "Discogs est la plus grande base de données d'informations sur la musique. Chaque mois, des millions d'internautes utilisent Discogs pour s'informer, acheter et vendre. Dans notre une petite entreprise créative la contribution de chaque employé est importante. En pleine expansion, nous sommes à la recherche de personnes brillantes, dévouées, innovantes et très motivées afin de nous aider à réaliser la vision de Discogs: devenir le premier site pour les passionnés de musique du monde entier. "
 
 #: 
 msgid "Discogs is the world's largest user-built music database."
@@ -2934,9 +2929,7 @@ msgstr "Discogs utilise les évaluations pour déterminer les performances du ve
 
 #: 
 msgid "Discogs will <strong>only</strong> remove feedback and comments if the feedback"
-msgstr "Discogs supprimera <strong>seulement</strong> les évaluations et les commentaires selon les critères suivants :\n"
-""
-
+msgstr "Discogs supprimera <strong>seulement</strong> les évaluations et les commentaires selon les critères suivants :"
 #: 
 msgid "Discogs will charge a %(fee_percentage)s%% commision fee, with a minimum fee of %(min_fee)s, on each completed sale.  Listing is free. The commission will be calculated in the next step."
 msgstr "Dicogs facturera une commission de %(fee_percentage)s%%, la commission minimum étant de %(min_fee)s, sur chaque ventes effectuées. La mise en vente est gratuite. La commission sera calculée à la prochaine étape."
@@ -3151,8 +3144,7 @@ msgstr "Adresse e-mail"
 
 #: 
 msgid "Email matches autohold string"
-msgstr "Email matches autohold string\n"
-""
+msgstr "Email matches autohold string"
 
 #: 
 msgid "Email me the instructions"
@@ -3517,8 +3509,7 @@ msgstr "Pour d'autres questions sur cette facture, cliquez sur le lien %(url)s\n
 #: 
 msgid "For other questions about this invoice please visit <a href=\"%(url)s\">Help page</a>\n"
 "and click \"New Support Request\"."
-msgstr "Pour d'autres questions sur cette facture, merci de consulter notre <a href=\"%(url)s\">Page d'aide</a> , puis cliquer sur \"Nouvelle demande d'assistance\".\n"
-""
+msgstr "Pour d'autres questions sur cette facture, merci de consulter notre <a href=\"%(url)s\">Page d'aide</a> , puis cliquer sur \"Nouvelle demande d'assistance\"."
 
 #: 
 msgid "For over 15 years, <a href=\"http://www.discogs.com/user/360vinyl?q=u:360vinyl\">360 Vinyl</a> has operated out of a brick-and-mortar shop right in the heart of Portland. A proud Discogs member since 2008, owner Aaron Marquez has embraced the community as a way to share his love of collecting vinyl records with fans around the world."
@@ -3578,10 +3569,8 @@ msgstr[1] "%(num_results)s résultats trouvés pour %(query)s."
 #, fuzzy
 msgid "Found %(num_sub)s submission"
 msgid_plural "Found %(num_sub)s submissions"
-msgstr[0] "%(num_sub)s Proposition trouvée. \n"
-""
-msgstr[1] "%(num_sub)s Propositions trouvées.\n"
-""
+msgstr[0] "%(num_sub)s Proposition trouvée. "
+msgstr[1] "%(num_sub)s Propositions trouvées."
 
 #. Syntaxe changée, vérifier balises.
 #: 
@@ -4050,7 +4039,8 @@ msgid "If the seller does not respond via the order page within %(days)s days, w
 "will suspend their account and notify you of our action. If the seller does\n"
 "respond, please work with them to resolve any outstanding problems.\n"
 ""
-msgstr "Si le vendeur n'envoie pas une réponse via la page de commande sous un délai de %(days)s jours, son compte sera suspendu et nous vous notifierons de cette action. Si le vendeur ne répond pas, merci de communiquer avec lui directement afin de résoudre tout types de problèmes qui peuvent se présenter."
+msgstr "Si le vendeur n'envoie pas une réponse via la page de commande sous un délai de %(days)s jours, son compte sera suspendu et nous vous notifierons de cette action. Si le vendeur ne répond pas, merci de communiquer avec lui directement afin de résoudre tout types de problèmes qui peuvent se présenter.\n"
+""
 
 #: 
 #, fuzzy
@@ -4505,8 +4495,6 @@ msgstr "Facture pour"
 #: 
 msgid "Invoice for %(invoice_date)s"
 msgstr "Facture du (invoice_date)s\n"
-"\t\n"
-""
 
 #: 
 msgid "Invoices"
@@ -4595,8 +4583,7 @@ msgstr "Il semble que les options d'expédition valables pour votre commande ont
 
 #: 
 msgid "It may take a few minutes for your Marketplace listings to be updated."
-msgstr "La mise à jour de vos articles nécessite quelques minutes avant d'apparaître sur la Marketplace.\n"
-""
+msgstr "La mise à jour de vos articles nécessite quelques minutes avant d'apparaître sur la Marketplace."
 
 #: 
 msgid "It may take a moment for the messages to appear on the corresponding order pages."
@@ -5104,8 +5091,7 @@ msgstr "Rechercher de nouveaux amis ?"
 
 #: 
 msgid "Looking for votes? Visit our <a href=\"%(link)s\">Forum</a>."
-msgstr "Obtenir des votes ? Plus d'infos ici <a href=\"%(link)s\">Forum</a>.\n"
-""
+msgstr "Obtenir des votes ? Plus d'infos ici <a href=\"%(link)s\">Forum</a>."
 
 #: 
 msgid "Looks like you haven't been up to anything interesting lately. Try adding something to your wantlist or collection!"
@@ -5181,8 +5167,7 @@ msgstr "Articles mis à jour manuellement"
 
 #: 
 msgid "Manually Update your Collection &amp; Wantlist"
-msgstr "Mettre à jour votre Collection &amp; votre Wantlist.\n"
-""
+msgstr "Mettre à jour votre Collection &amp; votre Wantlist."
 
 #: 
 msgid "Mark as Read"
@@ -5859,8 +5844,7 @@ msgstr "Pas de correspondance"
 
 #: 
 msgid "No OAuth token parameter found! Please send your OAuth token as a request parameter."
-msgstr "Pas de OAuth paramètres jeton trouvé ! Merci d'envoyer votre OAuth jeton selon les paramètres requis.\n"
-""
+msgstr "Pas de OAuth paramètres jeton trouvé ! Merci d'envoyer votre OAuth jeton selon les paramètres requis."
 
 #: 
 msgid "No Rating Yet"
@@ -8823,8 +8807,7 @@ msgstr "Successfully Denied Report(s)."
 
 #: 
 msgid "Successfully Ignored Report(s)."
-msgstr "Successfully Ignored Report(s).\n"
-""
+msgstr "Successfully Ignored Report(s)."
 
 #: 
 msgid "Successfully added new comment."
@@ -8973,7 +8956,8 @@ msgid "Thank you for filing a Seller Not Responding report. We're sorry the sell
 "not responding. We've contacted the seller and asked them to respond to you via\n"
 "the <a href=\"%(order_url)s\">order page</a>.\n"
 ""
-msgstr "Merci d'avoir rempli une alerte \"Pas de réponse du vendeur\". Nous sommes désolé que le vendeur ne réponde pas. Nous l'avons contacté et demandé de vous répondre via <a href=\"%(order_url)s\">order page</a>."
+msgstr "Merci d'avoir rempli une alerte \"Pas de réponse du vendeur\". Nous sommes désolé que le vendeur ne réponde pas. Nous l'avons contacté et demandé de vous répondre via <a href=\"%(order_url)s\">order page</a>.\n"
+""
 
 #: 
 msgid "Thank you for filing a Seller Not Responding report. We're sorry the seller is\n"
@@ -9797,8 +9781,7 @@ msgstr "Titre/Nom"
 
 #: 
 msgid "To"
-msgstr "Destination\n"
-""
+msgstr "Destination"
 
 #: 
 msgid "To accept this invitation please click here:"
@@ -10709,8 +10692,7 @@ msgid "We are contacting you to advise that a recent review of a seller you have
 "able to fulfill marketplace orders, or may be engaged in marketplace fraud.\n"
 "This seller's account remains suspended from the marketplace indefinitely\n"
 "due to their activity."
-msgstr "Nous vous contactons afin de vous informer que le vendeur % (username)s chez lequel vous avez passé une commande a été identifié comme étant défaillant sur le suivi des commandes, ou peut être soupçonné d'opérations frauduleuses sur la Marketplace. Le compte de ce vendeur est suspendu pour une période indéfinie en raison de son activité en infraction avec les règles de Discogs.\n"
-""
+msgstr "Nous vous contactons afin de vous informer que le vendeur % (username)s chez lequel vous avez passé une commande a été identifié comme étant défaillant sur le suivi des commandes, ou peut être soupçonné d'opérations frauduleuses sur la Marketplace. Le compte de ce vendeur est suspendu pour une période indéfinie en raison de son activité en infraction avec les règles de Discogs."
 
 #: 
 msgid "We are contacting you to advise that a recent review of a seller you have a\n"
@@ -11006,8 +10988,7 @@ msgstr "Lorsqu'un autre utilisateur m'envoie un message"
 
 #: 
 msgid "When available, show <strong>audio clips</strong> and buy links next to tracklistings"
-msgstr "Lorsqu'ils sont disponibles, montrer <strong>les extraits sonores</strong> Et créez des liens à côté de la liste des titres. \n"
-""
+msgstr "Lorsqu'ils sont disponibles, montrer <strong>les extraits sonores</strong> Et créez des liens à côté de la liste des titres. "
 
 #: 
 msgid "When contacting us please include all details such as your invoice number and\n"
@@ -12156,9 +12137,7 @@ msgstr "Utilsateurs bloqués"
 
 #: 
 msgid "buy %(format)s at Discogs"
-msgstr "acheter des %(format)s sur Discogs \n"
-"\n"
-""
+msgstr "acheter des %(format)s sur Discogs"
 
 #: 
 msgid "by"
@@ -12310,8 +12289,7 @@ msgstr "à partir de (year)s"
 
 #: 
 msgid "from <%- seller %> at no additional cost!"
-msgstr "sur le shop de <%- seller %> sans frais d'expédition supplémentaires.\n"
-""
+msgstr "sur le shop de <%- seller %> sans frais d'expédition supplémentaires."
 
 #: 
 #, fuzzy

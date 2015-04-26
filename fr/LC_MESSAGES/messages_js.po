@@ -96,8 +96,7 @@ msgstr "Etes-vous sûr de vouloir changer le format ? Toutes les descriptions se
 
 #: 
 msgid "Are you certain you would like to delete this review?"
-msgstr "Etes-vous sûr de vouloir supprimer cet avis ?\n"
-""
+msgstr "Etes-vous sûr de vouloir supprimer cet avis ?"
 
 #: 
 msgid "Are you sure you want to DELETE the items?"
@@ -301,8 +300,7 @@ msgstr "Confirmer la commande"
 
 #: 
 msgid "Place order and pay now"
-msgstr "Confirmez la commande et payez maintenant\n"
-""
+msgstr "Confirmez la commande et payez maintenant"
 
 #: 
 msgid "Placing order..."
