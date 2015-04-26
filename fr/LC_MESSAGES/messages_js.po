@@ -96,7 +96,7 @@ msgstr "Etes-vous sûr de vouloir changer le format ? Toutes les descriptions se
 
 #: 
 msgid "Are you certain you would like to delete this review?"
-msgstr "Etes-vous sûr de vouloir supprimer cet avis ?"
+msgstr "Etes-vous sûr de vouloir supprimer cet avis ?\n"
 ""
 
 #: 
@@ -148,13 +148,9 @@ msgstr "Annuler"
 msgid "Cancel Order"
 msgstr "Annuler la commande"
 
-#:
-msgid "Capitalization may be wrong, is this correct?"
-msgstr "L'écriture en majuscules est-elle correcte ?"
-
 #: 
 msgid "Checking"
-msgstr "Vérification"
+msgstr "En cours de vérification"
 
 #: 
 msgid "Click <%= saveButton => again to save anyway."
@@ -171,10 +167,6 @@ msgstr "Confirmer"
 #: 
 msgid "Create"
 msgstr "Créer"
-
-#:
-msgid "Change"
-msgstr "Changer"
 
 #: 
 msgid "Create Master Release"
@@ -231,7 +223,7 @@ msgstr "Evaluation envoyée"
 
 #: 
 msgid "Generating Preview"
-msgstr "Generation de l'aperçu"
+msgstr "Aperçu en cours"
 
 #: 
 msgid "Hide Credits"
@@ -288,10 +280,6 @@ msgstr "La Référence Principale a été sauvegardée avec succès et va être 
 #: 
 msgid "More"
 msgstr "Plus"
-
-#:
-msgid "Ignore"
-msgstr "Ignorer"
 
 #. Déplacer
 #: 
@@ -434,7 +422,7 @@ msgstr "Supprimer cette règle d'éxpédition ?"
 
 #: 
 msgid "Replying"
-msgstr "Répondre"
+msgstr "En cours de réponse"
 
 #. Contexte
 #: 
