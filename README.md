@@ -29,3 +29,4 @@ Translations for the Discogs website
 * armak
 * msaizar
 * Zicchette
+* michalgasek 
