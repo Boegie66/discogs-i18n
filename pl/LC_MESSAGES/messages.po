@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-03-05 09:11-0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-04-08 11:00+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: pl <LL@li.org>\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && "
@@ -52,7 +52,7 @@ msgstr ""
 
 #, python-format
 msgid "\"%s\" is available."
-msgstr ""
+msgstr "\"%s\" jest dostępny."
 
 #, python-format
 msgid "\"Search %(seller)s's store"
@@ -372,7 +372,7 @@ msgstr ""
 
 #, python-format
 msgid "%s was added to your friends list."
-msgstr ""
+msgstr "%s został dodany do twoich znajomych."
 
 #, python-format
 msgid "%s's Contributions"
@@ -415,7 +415,7 @@ msgid "* Updates to items I'm selling"
 msgstr ""
 
 msgid "1. General Rules"
-msgstr ""
+msgstr "1. Zasady ogólne"
 
 msgid "1. Log on to"
 msgstr ""
@@ -427,7 +427,7 @@ msgid "11. Release Notes"
 msgstr ""
 
 msgid "12 Months"
-msgstr ""
+msgstr "12 miesięcy"
 
 msgid "12. Tracklisting"
 msgstr ""
@@ -436,22 +436,22 @@ msgid "13. Images"
 msgstr ""
 
 msgid "2. Artist"
-msgstr ""
+msgstr "2. Artysta"
 
 msgid "2. Click on 'Pay' next to the invoice that shows 'Past Due'"
 msgstr ""
 
 msgid "3 Months"
-msgstr ""
+msgstr "3 miesiące"
 
 msgid "3. Select your payment method and complete your payment"
 msgstr ""
 
 msgid "3. Title"
-msgstr ""
+msgstr "3. Tytuł"
 
 msgid "30 days"
-msgstr ""
+msgstr "30 dni"
 
 msgid "4. Label/Catalog"
 msgstr ""
@@ -460,22 +460,22 @@ msgid "5. Barcodes &amp; Identifiers"
 msgstr ""
 
 msgid "6 Months"
-msgstr ""
+msgstr "6 miesięcy"
 
 msgid "6. Format"
 msgstr ""
 
 msgid "7. Country"
-msgstr ""
+msgstr "Kraj"
 
 msgid "8. Release Date"
-msgstr ""
+msgstr "Data wydania"
 
 msgid "9. Genres/Styles"
 msgstr ""
 
 msgid "90 days"
-msgstr ""
+msgstr "90 dni"
 
 msgid "<%= type %> not found."
 msgstr ""
@@ -700,7 +700,7 @@ msgid "Access granted"
 msgstr ""
 
 msgid "Account"
-msgstr ""
+msgstr "Konto"
 
 msgid "Account Closed"
 msgstr ""
@@ -798,7 +798,7 @@ msgid "Add Folder"
 msgstr ""
 
 msgid "Add Friend"
-msgstr ""
+msgstr "Dodaj znajomego"
 
 msgid "Add List To Dashboard"
 msgstr ""
@@ -888,10 +888,10 @@ msgid "Add some images to the key release."
 msgstr ""
 
 msgid "Add to Cart"
-msgstr ""
+msgstr "Dodaj do koszyka"
 
 msgid "Add to Collection"
-msgstr ""
+msgstr "Dodaj do kolekcji"
 
 msgid "Add to Inventory"
 msgstr ""
@@ -962,7 +962,7 @@ msgid "Additional Resources:"
 msgstr ""
 
 msgid "Address"
-msgstr ""
+msgstr "Adres"
 
 msgid "Adjust notification preferences and seller information."
 msgstr ""
@@ -1066,7 +1066,7 @@ msgid "Almost there"
 msgstr ""
 
 msgid "Already have an account?"
-msgstr ""
+msgstr "Masz już konto?"
 
 #, python-format
 msgid ""
@@ -1231,7 +1231,7 @@ msgid "Are you sure you would like to copy this to your drafts?"
 msgstr ""
 
 msgid "Artist"
-msgstr ""
+msgstr "Artysta"
 
 msgid "Artist Name Variation"
 msgstr ""
@@ -1506,7 +1506,7 @@ msgid ""
 msgstr ""
 
 msgid "Buyer"
-msgstr ""
+msgstr "Kupujący"
 
 #, python-format
 msgid "Buyer Awaiting Response notice for Order #%(order_id)s"
@@ -1671,7 +1671,7 @@ msgid "Card Verification<br>Number"
 msgstr ""
 
 msgid "Cart"
-msgstr ""
+msgstr "Koszyk"
 
 msgid "Cat #"
 msgstr ""
@@ -1825,7 +1825,7 @@ msgid "City"
 msgstr ""
 
 msgid "City/Town"
-msgstr ""
+msgstr "Miasto"
 
 msgid "Clear All Filters"
 msgstr ""
@@ -1925,7 +1925,7 @@ msgid "Comments:"
 msgstr ""
 
 msgid "Community"
-msgstr ""
+msgstr "Społeczność"
 
 msgid "Companies etc"
 msgstr ""
@@ -2163,7 +2163,7 @@ msgid "Create an Application"
 msgstr ""
 
 msgid "Create an account now."
-msgstr ""
+msgstr "Rejestracja"
 
 msgid "Create an application"
 msgstr ""
@@ -2229,7 +2229,7 @@ msgid "Credits List"
 msgstr ""
 
 msgid "Currency"
-msgstr ""
+msgstr "Waluta"
 
 msgid "Currency information will be pulled from your marketplace settings."
 msgstr ""
@@ -2247,13 +2247,13 @@ msgid "Current Videos"
 msgstr ""
 
 msgid "Current password"
-msgstr ""
+msgstr "Obecne hasło"
 
 msgid "Custom Range"
 msgstr ""
 
 msgid "Customize This Page"
-msgstr ""
+msgstr "Dostosuj tę stronę"
 
 msgid "Dashboard"
 msgstr ""
@@ -2265,7 +2265,7 @@ msgid "Data Quality"
 msgstr ""
 
 msgid "Database"
-msgstr ""
+msgstr "Baza danych"
 
 msgid "Database Help Topics"
 msgstr ""
@@ -2274,7 +2274,7 @@ msgid "Database Notifications"
 msgstr ""
 
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 msgid "Date Processed"
 msgstr ""
@@ -2283,7 +2283,7 @@ msgid "Date in CIP"
 msgstr ""
 
 msgid "Decade"
-msgstr ""
+msgstr "Dekada"
 
 msgid ""
 "Decide who can contact you, and what information you would like to share "
@@ -2630,7 +2630,7 @@ msgid "Don't change offer status"
 msgstr ""
 
 msgid "Don't have an account?"
-msgstr ""
+msgstr "Nie masz konta?"
 
 msgid "Don't miss out on the items still in your cart:"
 msgstr ""
@@ -2756,10 +2756,10 @@ msgid "Editing Inventory"
 msgstr ""
 
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 msgid "Email address"
-msgstr ""
+msgstr "Adres email"
 
 msgid "Email me the instructions"
 msgstr ""
@@ -2823,7 +2823,7 @@ msgid "Entirely Incorrect"
 msgstr ""
 
 msgid "Error"
-msgstr ""
+msgstr "Błąd"
 
 msgid "Error saving file"
 msgstr ""
@@ -2875,13 +2875,13 @@ msgid "Explore"
 msgstr "Przeszukuj"
 
 msgid "Export"
-msgstr ""
+msgstr "Eksport"
 
 msgid "Export CSV"
 msgstr ""
 
 msgid "Export My Collection"
-msgstr ""
+msgstr "Eksportuj moją kolekcję"
 
 msgid "Export My Contributions"
 msgstr ""
@@ -3084,7 +3084,7 @@ msgid "Forgot Password"
 msgstr ""
 
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Nie pamiętam hasła"
 
 msgid "Format"
 msgstr "Format"
@@ -3135,7 +3135,7 @@ msgid "Frequently Asked Questions:"
 msgstr ""
 
 msgid "Friends"
-msgstr "Przyjaciele"
+msgstr "Znajomi"
 
 msgid "Friends' Activity"
 msgstr ""
@@ -3147,7 +3147,7 @@ msgid "From"
 msgstr ""
 
 msgid "Full Name"
-msgstr ""
+msgstr "Imię i nazwisko"
 
 msgid "General"
 msgstr ""
@@ -3351,7 +3351,7 @@ msgid "Help"
 msgstr "Pomoc"
 
 msgid "Help &amp; Support"
-msgstr ""
+msgstr "Pomoc"
 
 msgid "Help Forum Bans"
 msgstr ""
@@ -4470,22 +4470,22 @@ msgid "Locked topic"
 msgstr ""
 
 msgid "Log In"
-msgstr ""
+msgstr "Zaloguj się"
 
 msgid "Log In to Discogs"
-msgstr ""
+msgstr "Zaloguj się do Discogs"
 
 msgid "Log Out"
-msgstr ""
+msgstr "Wyloguj się"
 
 msgid "Log in."
-msgstr ""
+msgstr "Zaloguj się."
 
 msgid "Log on to"
 msgstr ""
 
 msgid "Logged in as"
-msgstr ""
+msgstr "Zalogowany jako"
 
 msgid ""
 "London, U.K.-based <a "
@@ -4672,7 +4672,7 @@ msgid "Media"
 msgstr ""
 
 msgid "Media Condition"
-msgstr ""
+msgstr "Stan nośnika"
 
 msgid "Media condition is missing"
 msgstr ""
@@ -4899,7 +4899,7 @@ msgid "My Buyer Rating:"
 msgstr ""
 
 msgid "My Collection"
-msgstr ""
+msgstr "Moja kolekcja"
 
 msgid "My Contributions"
 msgstr ""
@@ -4926,13 +4926,13 @@ msgid "My Posts"
 msgstr ""
 
 msgid "My Profile"
-msgstr ""
+msgstr "Mój profil"
 
 msgid "My Seller Rating:"
 msgstr ""
 
 msgid "My Store"
-msgstr ""
+msgstr "Mój sklep"
 
 msgid "My Submissions"
 msgstr ""
@@ -5041,7 +5041,7 @@ msgid "New Releases"
 msgstr "Nowe wydania"
 
 msgid "New Seller"
-msgstr ""
+msgstr "Nowy sprzedawca"
 
 msgid "New Styles"
 msgstr "Nowe style"
@@ -5053,13 +5053,13 @@ msgid "New Support Request"
 msgstr ""
 
 msgid "New Thread"
-msgstr ""
+msgstr "Nowy wątek"
 
 msgid "New folder name"
 msgstr ""
 
 msgid "New password"
-msgstr ""
+msgstr "Nowe hasło"
 
 #, python-format
 msgid "New response to %(type)s on %(subject_text)s"
@@ -5345,7 +5345,7 @@ msgid "OK"
 msgstr ""
 
 msgid "OR"
-msgstr ""
+msgstr "ALBO"
 
 msgid "Offer"
 msgstr ""
@@ -6062,7 +6062,7 @@ msgid "Post new topic"
 msgstr ""
 
 msgid "Postal Code"
-msgstr ""
+msgstr "Kod pocztowy"
 
 msgid "Posted"
 msgstr ""
@@ -6351,7 +6351,7 @@ msgid "Recent Lists"
 msgstr ""
 
 msgid "Recent Releases"
-msgstr ""
+msgstr "Ostatnie wydania"
 
 msgid "Recent Sales History"
 msgstr ""
@@ -6404,7 +6404,7 @@ msgid "Region/State"
 msgstr ""
 
 msgid "Register"
-msgstr ""
+msgstr "Rejestracja"
 
 msgid "Register Using Facebook"
 msgstr ""
@@ -6849,7 +6849,7 @@ msgid "Save Labs Settings"
 msgstr ""
 
 msgid "Save Notification Settings"
-msgstr ""
+msgstr "Ustawienia powiadomień"
 
 msgid "Save Notify Setting"
 msgstr ""
@@ -6941,10 +6941,10 @@ msgid "Search Help Docs..."
 msgstr ""
 
 msgid "Search Marketplace"
-msgstr ""
+msgstr "Przeszukaj sklepy"
 
 msgid "Search Results"
-msgstr ""
+msgstr "Wyniki wyszukiwania"
 
 msgid "Search Similar"
 msgstr ""
@@ -7089,7 +7089,7 @@ msgstr ""
 msgid ""
 "Select which events you would like to be notified about and how Discogs "
 "should notify you."
-msgstr ""
+msgstr "Wybierz wydarzenia, o których chcesz być powiadamiany i sposób otrzymywania powiadomień."
 
 msgid "Select your payment method and complete your payment"
 msgstr ""
@@ -7126,7 +7126,7 @@ msgid "Sell-Blocked Releases"
 msgstr ""
 
 msgid "Seller"
-msgstr ""
+msgstr "Sprzedawca"
 
 msgid "Seller Feedback"
 msgstr ""
@@ -7307,7 +7307,7 @@ msgid "Shipped"
 msgstr ""
 
 msgid "Shipping"
-msgstr ""
+msgstr "Wysyłka"
 
 msgid "Shipping Information"
 msgstr ""
@@ -7439,13 +7439,13 @@ msgid "Skrill"
 msgstr ""
 
 msgid "Sleeve"
-msgstr ""
+msgstr "Okładka"
 
 msgid "Sleeve "
-msgstr ""
+msgstr "Okładka "
 
 msgid "Sleeve Condition"
-msgstr ""
+msgstr "Stan okładki"
 
 msgid "Sleeve condition"
 msgstr ""
@@ -9044,7 +9044,7 @@ msgid "Use this version of the data"
 msgstr ""
 
 msgid "User"
-msgstr ""
+msgstr "Użytkownik"
 
 #, python-format
 msgid "User %s is now being ignored. Manage your ignored users %s"
@@ -9074,13 +9074,13 @@ msgid "User is not a member."
 msgstr ""
 
 msgid "Username"
-msgstr ""
+msgstr "Nazwa użytkownika"
 
 msgid "Username or Email"
-msgstr ""
+msgstr "Nazwa użytkownika lub Email"
 
 msgid "Username or email does not exist or password is invalid."
-msgstr ""
+msgstr "Użytkownik lub email nie istnieje lub hasło jest nieprawidłowe."
 
 msgid "Users in Contributor Improvement Program (CIP)"
 msgstr ""
@@ -9104,7 +9104,7 @@ msgid "Verify the item matches the information on"
 msgstr ""
 
 msgid "Versions"
-msgstr ""
+msgstr "Wersje"
 
 msgid "Video: How to list an item for sale on Discogs"
 msgstr ""
@@ -9250,7 +9250,7 @@ msgid "View more sales history"
 msgstr ""
 
 msgid "View my Ratings"
-msgstr ""
+msgstr "Pokaż moje oceny"
 
 msgid "View my lists"
 msgstr ""
@@ -10338,6 +10338,8 @@ msgid ""
 "You must fill in these fields before you can purchase items for sale.\n"
 "You must <strong>save</strong> your changes at the end of the form."
 msgstr ""
+"Wypełnij poniższe pola formularza, aby móc kupować.<\n"
+"<strong>Zachowaj</strong> zmiany na końcu formularza."
 
 msgid ""
 "You must have access to your new email address.\n"
@@ -10549,7 +10551,7 @@ msgid ""
 msgstr ""
 
 msgid "Your cart is empty"
-msgstr ""
+msgstr "Twój koszyk jest pusty"
 
 #, python-format
 msgid ""
@@ -10585,7 +10587,7 @@ msgstr ""
 
 #, python-format
 msgid "Your current e-mail address is %(email)s "
-msgstr ""
+msgstr "Twój obecny adres email to %(email)s "
 
 msgid "Your draft releases <strong>will be deleted</strong>."
 msgstr ""
@@ -10817,7 +10819,7 @@ msgid "and up"
 msgstr ""
 
 msgid "artists"
-msgstr ""
+msgstr "artyści"
 
 msgid "at least"
 msgstr ""
@@ -10834,7 +10836,7 @@ msgid "back to message"
 msgstr ""
 
 msgid "blocked users"
-msgstr ""
+msgstr "zablokowani użytkownicy"
 
 #, python-format
 msgid "buy %(format)s at Discogs"
@@ -10851,7 +10853,7 @@ msgid ""
 msgstr ""
 
 msgid "change currency"
-msgstr ""
+msgstr "zmień walutę"
 
 msgid "changed"
 msgstr ""
@@ -10894,7 +10896,7 @@ msgid "details"
 msgstr ""
 
 msgid "does not include shipping"
-msgstr ""
+msgstr "bez kosztów wysyłki"
 
 msgid ""
 "e) Discogs reserves the right to block a user for poor conduct in using "
@@ -10922,13 +10924,13 @@ msgid "e.g. Upper Stacks - Aisle 5 Row 4"
 msgstr ""
 
 msgid "edit"
-msgstr ""
+msgstr "edytuj"
 
 msgid "edited"
 msgstr ""
 
 msgid "error code"
-msgstr ""
+msgstr "kod błędu"
 
 msgid "exactly. Review our guidelines for"
 msgstr ""
