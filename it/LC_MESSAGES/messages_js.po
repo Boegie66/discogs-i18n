@@ -197,7 +197,7 @@ msgid "Click <%= saveButton => again to save anyway."
 msgstr "Clicca <%= saveButton => di nuovo per salvare comunque."
 
 msgid "Click to choose file"
-msgstr ""
+msgstr "Clicca per scegliere il file"
 
 msgid "Close"
 msgstr "Chiudi"
@@ -248,7 +248,7 @@ msgid "Does not exist: <%= id %>"
 msgstr "Non esiste: <%= id %>"
 
 msgid "Drag and drop file or click to browse"
-msgstr ""
+msgstr "Trascinare e rilasciare il file oppure fare clic per navigare"
 
 msgid "Edit Draft"
 msgstr "Modifica Progetto"
@@ -632,7 +632,7 @@ msgid "Send Feedback"
 msgstr "Invia Feedback"
 
 msgid "Send Refund"
-msgstr ""
+msgstr "Invia Rimborso"
 
 msgid "Share"
 msgstr "Condividi"
@@ -763,7 +763,7 @@ msgid "Update Order"
 msgstr "Aggiorna ordine"
 
 msgid "Upload CSV File"
-msgstr ""
+msgstr "Carica file CSV"
 
 msgid "View Image"
 msgstr "Guarda Immagine"
@@ -772,9 +772,7 @@ msgid "Vote and Post Comment"
 msgstr "Vota e Commenta"
 
 msgid "WARNING: You have made changes since loading this page."
-msgstr ""
-"AVVISO: sono state apportate modifiche rispetto a quando avete caricato "
-"questa pagina."
+msgstr "AVVISO: sono state apportate modifiche rispetto a quando avete caricato questa pagina."
 
 msgid "WARNING: You have unsaved changes."
 msgstr "AVVISO: I vostri cambiamenti non sono stati salvati"
@@ -839,9 +837,7 @@ msgid "You must select at least one destination"
 msgstr "È necessario selezionare almeno una destinazione"
 
 msgid "Your changes couldn't be saved. Please try again."
-msgstr ""
-"I vostri cambiamenti non possono essere salvati. Si prega di provare "
-"nuovamente."
+msgstr "I vostri cambiamenti non possono essere salvati. Si prega di provare nuovamente."
 
 msgid ""
 "Your feedback was sent successfully. Thank you for helping improve "
@@ -854,7 +850,7 @@ msgid "about"
 msgstr "su di noi"
 
 msgid "additions"
-msgstr ""
+msgstr "integrazioni"
 
 msgid "all versions"
 msgstr "tutte le versioni"
@@ -869,13 +865,13 @@ msgid "barcode or other identifier"
 msgstr "codice a barre e altri identificatori"
 
 msgid "changes"
-msgstr ""
+msgstr "cambiamenti"
 
 msgid "credit"
 msgstr "credito"
 
 msgid "deletions"
-msgstr ""
+msgstr "cancellazioni"
 
 msgid "format"
 msgstr "formato"
