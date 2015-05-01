@@ -448,7 +448,7 @@ msgid "90 days"
 msgstr ""
 
 msgid "<%= type %> not found."
-msgstr "アーティスト%s は見つかりません"
+msgstr ""
 
 #, python-format
 msgid ""
