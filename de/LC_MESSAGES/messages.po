@@ -11227,7 +11227,7 @@ msgid "wants"
 msgstr ""
 
 msgid "weight"
-msgstr ""
+msgstr "Gewicht"
 
 msgid "within"
 msgstr ""
