@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: V2 messages_js.po\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-03-24 16:34-0700\n"
+"POT-Creation-Date: 2015-05-04 11:50-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: es <LL@li.org>\n"
@@ -242,6 +242,9 @@ msgstr "Personaliza Esta Página"
 msgid "Date"
 msgstr ""
 
+msgid "Delete"
+msgstr ""
+
 msgid "Deleting"
 msgstr "Borrando"
 
@@ -250,6 +253,12 @@ msgid "Delivery in <%= label %>"
 msgstr "Envío en <%= label %>"
 
 msgid "Description"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Disabled"
 msgstr ""
 
 msgid "Discogs Alert"
@@ -268,6 +277,9 @@ msgid "Edit Master Release"
 msgstr "Editar Publicación Principal"
 
 msgid "Edit Release"
+msgstr ""
+
+msgid "Enable"
 msgstr ""
 
 msgid "Error"
@@ -365,6 +377,9 @@ msgstr "Menos"
 msgid "Load next"
 msgstr "Cargar siguiente"
 
+msgid "Loading"
+msgstr ""
+
 msgid "Make End Of Index Track"
 msgstr ""
 
@@ -431,16 +446,15 @@ msgstr ""
 
 msgid ""
 "Please check these warning(s) against your submission, and if needed the "
-"<a href='/help/doc/submission-guidelines-release' "
-"target='_blank'>Submission Guidelines</a>. If you have verified a warning"
-" is not applicable to your submission, please tick the box to clear it, "
-"otherwise please correct the error. If there are any warnings, please "
-"write a short explanation in the Submission Notes. The more information "
-"you can give at this stage, the easier and quicker your submission can be"
-" processed and accepted to the database.  If you have any queries or "
-"problems, please save this submission to your drafts, and ask in the <a "
-"href='/forum/topic/17' target='_blank'>Adding / Updating Forum Topic</a>."
-" Thank you!"
+"<%= startTag1 %>Submission Guidelines<%= endTag1 %>. If you have verified"
+" a warning is not applicable to your submission, please tick the box to "
+"clear it, otherwise please correct the error. If there are any warnings, "
+"please write a short explanation in the Submission Notes. The more "
+"information you can give at this stage, the easier and quicker your "
+"submission can be processed and accepted to the database.  If you have "
+"any queries or problems, please save this submission to your drafts, and "
+"ask in the <%= startTag2 %>Adding / Updating Forum Topic<%= endTag2 %>. "
+"Thank you!"
 msgstr ""
 
 msgid "Please choose a file to upload"
@@ -492,15 +506,6 @@ msgstr "Publicar Comentario"
 msgid "Posting"
 msgstr "Publicando"
 
-msgid ""
-"Press OK to report that this list contravenes the <a "
-"href=\"http://www.discogs.com/help/lists.html\">Discogs List "
-"guidelines</a>."
-msgstr ""
-"Pulsa Aceptar para informar que esta lista infringe las <a "
-"href=\"http://www.discogs.com/help/lists.html\">Discogs</a>pautas para "
-"las listas de Discogs</a>."
-
 msgid "Preview"
 msgstr ""
 
@@ -533,9 +538,7 @@ msgid_plural "Rate this release <%- n %> stars."
 msgstr[0] ""
 msgstr[1] ""
 
-msgid ""
-"Read and understand the <a href='/help/doc/submission-guidelines-release'"
-" target='_blank'>Submission Guide</a>"
+msgid "Read and understand the <%= startTag %>Submission Guide<%= endTag %>"
 msgstr ""
 
 msgid ""
@@ -594,6 +597,9 @@ msgstr "¿Eliminar esta política de envío?"
 
 msgid "Replying"
 msgstr "Respondiendo"
+
+msgid "Report Abuse"
+msgstr ""
 
 msgid "Role"
 msgstr ""
@@ -694,6 +700,9 @@ msgstr "Forma para Envió de Accesos Directos de Teclado"
 msgid "Submission Notes"
 msgstr ""
 
+msgid "Submission Notes (Required)"
+msgstr ""
+
 msgid "Submission notes are required"
 msgstr "Se requieren las notas de envío"
 
@@ -770,6 +779,15 @@ msgid "Update Order"
 msgstr "Actualizar Pedido"
 
 msgid "Upload CSV File"
+msgstr ""
+
+msgid "Upload Image"
+msgstr ""
+
+msgid "Uploaded by"
+msgstr ""
+
+msgid "View"
 msgstr ""
 
 msgid "View Image"
@@ -890,6 +908,9 @@ msgid "label"
 msgstr ""
 
 msgid "not found"
+msgstr ""
+
+msgid "tracks"
 msgstr ""
 
 msgid "will be added to the Database"

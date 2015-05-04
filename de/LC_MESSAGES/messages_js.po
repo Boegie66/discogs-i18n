@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-03-05 09:10-0800\n"
+"POT-Creation-Date: 2015-05-04 11:50-0700\n"
 "PO-Revision-Date: 2014-12-26 09:01-0800\n"
 "Last-Translator: Jarod2801\n"
 "Language-Team: de <LL@li.org>\n"
@@ -64,6 +64,9 @@ msgid "Add Sub-Track"
 msgstr ""
 
 msgid "Add Tracks"
+msgstr ""
+
+msgid "Add a module"
 msgstr ""
 
 msgid "Add artist"
@@ -181,11 +184,17 @@ msgstr ""
 msgid "Change"
 msgstr "Ändern"
 
+msgid "Check our Twitter feed for updates"
+msgstr ""
+
 msgid "Checking"
 msgstr "Prüfe"
 
 msgid "Click <%= saveButton => again to save anyway."
 msgstr "<%= saveButton => klicken um trotzdem zu speichern."
+
+msgid "Click to choose file"
+msgstr ""
 
 msgid "Close"
 msgstr "Schließen"
@@ -220,6 +229,9 @@ msgstr "Diese Seite anpassen"
 msgid "Date"
 msgstr ""
 
+msgid "Delete"
+msgstr ""
+
 msgid "Deleting"
 msgstr "Lösche"
 
@@ -229,10 +241,19 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
+msgid "Disable"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
 msgid "Discogs Alert"
 msgstr "Discogs Warnung"
 
 msgid "Does not exist: <%= id %>"
+msgstr ""
+
+msgid "Drag and drop file or click to browse"
 msgstr ""
 
 msgid "Edit Draft"
@@ -242,6 +263,9 @@ msgid "Edit Master Release"
 msgstr ""
 
 msgid "Edit Release"
+msgstr ""
+
+msgid "Enable"
 msgstr ""
 
 msgid "Error"
@@ -280,7 +304,13 @@ msgstr "Vorschau wird erstellt"
 msgid "Genres"
 msgstr ""
 
+msgid "Get help"
+msgstr ""
+
 msgid "Heading"
+msgstr ""
+
+msgid "Help!"
 msgstr ""
 
 msgid "Hide Credits"
@@ -329,6 +359,9 @@ msgid "Less"
 msgstr "Weniger"
 
 msgid "Load next"
+msgstr ""
+
+msgid "Loading"
 msgstr ""
 
 msgid "Make End Of Index Track"
@@ -394,16 +427,15 @@ msgstr ""
 
 msgid ""
 "Please check these warning(s) against your submission, and if needed the "
-"<a href='/help/doc/submission-guidelines-release' "
-"target='_blank'>Submission Guidelines</a>. If you have verified a warning"
-" is not applicable to your submission, please tick the box to clear it, "
-"otherwise please correct the error. If there are any warnings, please "
-"write a short explanation in the Submission Notes. The more information "
-"you can give at this stage, the easier and quicker your submission can be"
-" processed and accepted to the database.  If you have any queries or "
-"problems, please save this submission to your drafts, and ask in the <a "
-"href='/forum/topic/17' target='_blank'>Adding / Updating Forum Topic</a>."
-" Thank you!"
+"<%= startTag1 %>Submission Guidelines<%= endTag1 %>. If you have verified"
+" a warning is not applicable to your submission, please tick the box to "
+"clear it, otherwise please correct the error. If there are any warnings, "
+"please write a short explanation in the Submission Notes. The more "
+"information you can give at this stage, the easier and quicker your "
+"submission can be processed and accepted to the database.  If you have "
+"any queries or problems, please save this submission to your drafts, and "
+"ask in the <%= startTag2 %>Adding / Updating Forum Topic<%= endTag2 %>. "
+"Thank you!"
 msgstr ""
 
 msgid "Please choose a file to upload"
@@ -451,12 +483,6 @@ msgstr ""
 msgid "Posting"
 msgstr ""
 
-msgid ""
-"Press OK to report that this list contravenes the <a "
-"href=\"http://www.discogs.com/help/lists.html\">Discogs List "
-"guidelines</a>."
-msgstr ""
-
 msgid "Preview"
 msgstr ""
 
@@ -489,9 +515,7 @@ msgid_plural "Rate this release <%- n %> stars."
 msgstr[0] ""
 msgstr[1] ""
 
-msgid ""
-"Read and understand the <a href='/help/doc/submission-guidelines-release'"
-" target='_blank'>Submission Guide</a>"
+msgid "Read and understand the <%= startTag %>Submission Guide<%= endTag %>"
 msgstr ""
 
 msgid ""
@@ -549,6 +573,9 @@ msgstr ""
 msgid "Replying"
 msgstr ""
 
+msgid "Report Abuse"
+msgstr ""
+
 msgid "Role"
 msgstr ""
 
@@ -579,11 +606,20 @@ msgstr "Speichere"
 msgid "Saving Draft"
 msgstr ""
 
+msgid "Search"
+msgstr ""
+
+msgid "Search artists, albums and more..."
+msgstr ""
+
 msgid "Search in new window"
 msgstr ""
 
 msgid "Send Feedback"
 msgstr "Feedback senden"
+
+msgid "Send Refund"
+msgstr ""
 
 msgid "Share"
 msgstr "Teilen"
@@ -618,6 +654,9 @@ msgid ""
 " page, then tap on the player."
 msgstr ""
 
+msgid "Sorry, this page could not be found."
+msgstr ""
+
 msgid "Strict Search"
 msgstr ""
 
@@ -631,6 +670,9 @@ msgid "Submission Form Keyboard Shortcuts"
 msgstr ""
 
 msgid "Submission Notes"
+msgstr ""
+
+msgid "Submission Notes (Required)"
 msgstr ""
 
 msgid "Submission notes are required"
@@ -700,6 +742,18 @@ msgstr ""
 
 msgid "Update Order"
 msgstr "Bestellung aktualisieren"
+
+msgid "Upload CSV File"
+msgstr ""
+
+msgid "Upload Image"
+msgstr ""
+
+msgid "Uploaded by"
+msgstr ""
+
+msgid "View"
+msgstr ""
 
 msgid "View Image"
 msgstr "Bild anzeigen"
@@ -779,6 +833,9 @@ msgstr ""
 msgid "about"
 msgstr ""
 
+msgid "additions"
+msgstr ""
+
 msgid "all versions"
 msgstr ""
 
@@ -791,7 +848,13 @@ msgstr ""
 msgid "barcode or other identifier"
 msgstr ""
 
+msgid "changes"
+msgstr ""
+
 msgid "credit"
+msgstr ""
+
+msgid "deletions"
 msgstr ""
 
 msgid "format"
@@ -804,6 +867,9 @@ msgid "label"
 msgstr ""
 
 msgid "not found"
+msgstr ""
+
+msgid "tracks"
 msgstr ""
 
 msgid "will be added to the Database"
