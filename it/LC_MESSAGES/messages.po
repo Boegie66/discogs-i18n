@@ -390,11 +390,11 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d month"
-msgstr "mese"
+msgstr ""
 
 #, python-format
 msgid "%d months"
-msgstr "mesi"
+msgstr ""
 
 #, python-format
 msgid "%d to %d"

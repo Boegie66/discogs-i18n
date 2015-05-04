@@ -571,7 +571,7 @@ msgid "Saved draft"
 msgstr ""
 
 msgid "Saved draft <%= link %> at <%= time %>"
-msgstr "下書きを保存する"
+msgstr ""
 
 msgid "Saving"
 msgstr "保存中"
