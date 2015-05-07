@@ -49,7 +49,7 @@ msgid " "
 msgstr ""
 
 msgid " (not including shipping)"
-msgstr "(Versand nicht inbegriffen)"
+msgstr " (Versand nicht inbegriffen)"
 
 #, python-format
 msgid " No %(type)s feedback"
@@ -79,8 +79,8 @@ msgstr ""
 #, python-format
 msgid "%(count)s message has been ignored"
 msgid_plural "%(count)s messages have been ignored"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(count)s nachricht wurde ignoriert"
+msgstr[1] "%(count)s meldungen wurden ignoriert"
 
 #, python-format
 msgid "%(inviter)s has invited you to join %(topic_name)s"
@@ -11407,7 +11407,7 @@ msgid "wants"
 msgstr ""
 
 msgid "weight"
-msgstr ""
+msgstr "gewicht"
 
 msgid "within"
 msgstr ""
