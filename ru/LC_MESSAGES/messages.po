@@ -117,7 +117,7 @@ msgstr[2] ""
 #, python-format
 msgid "%(n)d new item For Sale in your Wantlist"
 msgid_plural "%(n)d new items For Sale in your Wantlist"
-msgstr[0] "%(n)d новых предметов для покупки из вашего списка желаний"
+msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
