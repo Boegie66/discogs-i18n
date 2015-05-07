@@ -78,7 +78,7 @@ msgid ""
 msgstr ""
 "%(action)s en %(objname)s \n"
 "que tu has enviado o contribuido. \n"
-"%(objurl)s"
+"%(objurl)s\n"
 
 #, python-format
 msgid ""
@@ -2396,7 +2396,7 @@ msgid "Create New Group"
 msgstr "Crear Nuevo Grupo"
 
 msgid "Create Public Group"
-msgstr "Crear Grupo Público\n"
+msgstr "Crear Grupo Público"
 
 msgid "Create Your New Discogs Account"
 msgstr "Crea Tu Nueva Cuenta de Discogs"
@@ -3085,7 +3085,7 @@ msgid "Email"
 msgstr "Correo electrónico"
 
 msgid "Email address"
-msgstr "Dirección de correo electrónico\n"
+msgstr "Dirección de correo electrónico"
 
 msgid "Email me the instructions"
 msgstr "Envíeme por correo electrónico las instrucciones"
@@ -3927,7 +3927,7 @@ msgstr ""
 "%(days)s días, suspenderemos \n"
 "su cuenta y te notificaremos nuestra acción. Si el vendedor responde, por"
 " favor trata \n"
-"el tema con ellos para resolver cualquier problema pendiente."
+"el tema con ellos para resolver cualquier problema pendiente.\n"
 
 #, python-format
 msgid ""
@@ -3944,8 +3944,7 @@ msgstr ""
 "<a href='%(help_url)s'>Reporte de Vendedor que no Responde</a>. Nosotros "
 "notificaremos al vendedor \n"
 "a tu nombre y suspenderemos su cuenta si no se da una respuesta. ¿Te "
-"gustaría \n"
-"presentar un Reporte de Vendedor que no Responde?"
+"gustaría presentar un Reporte de Vendedor que no Responde?"
 
 #, python-format
 msgid ""
@@ -10102,7 +10101,7 @@ msgstr "Basura"
 
 #, python-format
 msgid "Try again in <a href=\"%(link)s\">English</a>."
-msgstr "Inténtalo de nuevo en <a href=\"%(link)s\">Inglés</a>.\n"
+msgstr "Inténtalo de nuevo en <a href=\"%(link)s\">Inglés</a>."
 
 #, python-format
 msgid ""
