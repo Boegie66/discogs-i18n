@@ -419,7 +419,7 @@ msgid "Place order"
 msgstr "Confirmer la commande"
 
 msgid "Place order and pay now"
-msgstr "Confirmez la commande et payez maintenant\n"
+msgstr "Confirmez la commande et payez maintenant"
 
 msgid "Placing order..."
 msgstr "Commande en cours de confirmation..."
