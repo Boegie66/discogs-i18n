@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: V2 messages.po\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-05-04 11:50-0700\n"
+"POT-Creation-Date: 2015-05-07 14:10-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -12,6 +12,14 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
+
+#, python-format
+msgid ""
+"\n"
+"Here is a link to the comment that mentions you:\n"
+"\n"
+"%(url)s\n"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1234,6 +1242,9 @@ msgstr "Tout le monde pourra lire, chercher, et participer à ce groupe."
 msgid "Application Name"
 msgstr "Nom de l'application"
 
+msgid "Application settings"
+msgstr ""
+
 msgid "Applied Filters"
 msgstr "Filtres activés"
 
@@ -1722,6 +1733,9 @@ msgstr "L'acheteur a archivé cette commande"
 msgid "Buyer rating"
 msgstr "Votre note acheteur"
 
+msgid "Buyer settings"
+msgstr ""
+
 msgid "Buyer's Agreement"
 msgstr "Conditions générales d'achat"
 
@@ -2118,6 +2132,9 @@ msgstr "Classement de la valeur de votre Collection"
 
 msgid "Collection item not found"
 msgstr "Article non trouvé dans votre collection"
+
+msgid "Collection settings"
+msgstr ""
 
 msgid "Comment for feedback"
 msgstr "Commentaire pour l'évaluation"
@@ -2639,6 +2656,9 @@ msgstr ""
 
 msgid "Details/History:"
 msgstr "Détails/ historique :"
+
+msgid "Developer settings"
+msgstr ""
 
 msgid "Developers Settings"
 msgstr "Paramètres développeurs"
@@ -3719,6 +3739,12 @@ msgstr "J'ai besoin d'aide  !"
 msgid "Here are the details of your order:"
 msgstr "Voici les détails de votre commande :"
 
+#, python-format
+msgid ""
+"Here is a link to the comment that mentions you:\n"
+"        <a href=\"%(url)s\">%(url)s</a>"
+msgstr ""
+
 msgid "Here is a summary of your account activity since your last invoice:"
 msgstr "Résumé de l'activité de votre compte depuis votre dernière facture :"
 
@@ -4284,6 +4310,14 @@ msgstr "Dans les amis"
 msgid "In grams. Must be a non-negative integer."
 msgstr "Unités en grammes. La valeur ne peut être négative."
 
+#, python-format
+msgid "In the comment, %(author)s wrote:"
+msgstr ""
+
+#, python-format
+msgid "In the comment, <a href=\"%(author_url)s\">%(author)s</a> wrote:"
+msgstr ""
+
 msgid "In your"
 msgstr "Dans votre votre."
 
@@ -4804,6 +4838,9 @@ msgstr "Label, Z-A"
 
 msgid "Labels"
 msgstr "Labels"
+
+msgid "Labs settings"
+msgstr ""
 
 msgid "Large Covers"
 msgstr "Grandes pochettes"
@@ -5597,13 +5634,18 @@ msgstr "Ne jamais partager"
 msgid "New (rev: %(curr_rev)s)"
 msgstr "Nouveau (rev: %(curr_rev)s)"
 
+#, python-format
+msgid "New Blog Comment Mention: %(blog_title)s"
+msgstr ""
+
 msgid "New Buyer"
 msgstr ""
 
 msgid "New Fees:"
 msgstr "Nouvelles commissions :"
 
-msgid "New Forum Mention"
+#, python-format
+msgid "New Forum Mention: %(thread_title)s"
 msgstr ""
 
 msgid "New List"
@@ -5949,6 +5991,9 @@ msgstr "Notification"
 
 msgid "Notification Settings"
 msgstr "Paramètres de notification"
+
+msgid "Notification settings"
+msgstr ""
 
 msgid "Notify Me"
 msgstr "Notifiez moi"
@@ -6971,6 +7016,9 @@ msgstr "Politique  de confidentialité"
 
 msgid "Privacy Settings"
 msgstr "Paramètres de confidentialité"
+
+msgid "Privacy settings"
+msgstr ""
 
 msgid "Private"
 msgstr "Privé"
@@ -8062,6 +8110,9 @@ msgstr "Pas de réponse du vendeur ?"
 
 msgid "Seller rating"
 msgstr "Votre note Vendeur"
+
+msgid "Seller settings"
+msgstr ""
 
 msgid "Seller to provide"
 msgstr "Facture du Vendeur bientôt disponible."
@@ -10337,6 +10388,9 @@ msgstr "L'utilisateur est déjà sur votre %s liste."
 msgid "User is not a member."
 msgstr "L'utilisateur n'est pas membre."
 
+msgid "User settings"
+msgstr ""
+
 msgid "Username"
 msgstr "Nom d'utilisateur"
 
@@ -10379,6 +10433,9 @@ msgstr "Vérifier que l'article correspondront aux informations suivantes "
 
 msgid "Versions"
 msgstr "Versions"
+
+msgid "Video updates are temporarily disabled."
+msgstr ""
 
 msgid "Video: How to list an item for sale on Discogs"
 msgstr "Vidéo : comment mettre un article en vente sur Discogs"
@@ -11081,6 +11138,9 @@ msgstr "Lorsque j'ajoute une référence à ma collection"
 msgid "When I add a release to my wantlist"
 msgstr "Lorsque j'ajoute une référence sur ma Wantlist"
 
+msgid "When I am mentioned in a comment on the Discogs blog"
+msgstr ""
+
 msgid "When I am mentioned in a forum thread"
 msgstr ""
 
@@ -11697,6 +11757,21 @@ msgstr "Vous avez été invité à rejoindre :"
 
 msgid "You have been logged out."
 msgstr "Vous vous avez été déconnecté."
+
+#, python-format
+msgid ""
+"You have been mentioned in a comment on the Discogs blog entry\n"
+"        titled \"%(blog_title)s\"."
+msgstr ""
+
+#, python-format
+msgid ""
+"You have been mentioned in a comment on the Discogs blog entry titled "
+"\"%(blog_title)s\"."
+msgstr ""
+
+msgid "You have been mentioned in the following forum post"
+msgstr ""
 
 msgid "You have been mentioned in the following forum post:"
 msgstr ""
@@ -12973,6 +13048,9 @@ msgstr "sous un délai"
 
 msgid "write a review"
 msgstr "Ecrire un avis"
+
+msgid "wrote"
+msgstr ""
 
 msgid "wrote:"
 msgstr "a écrit :"
