@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-05-04 11:50-0700\n"
+"POT-Creation-Date: 2015-05-07 14:10-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: hu <LL@li.org>\n"
@@ -17,6 +17,14 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
+
+#, python-format
+msgid ""
+"\n"
+"Here is a link to the comment that mentions you:\n"
+"\n"
+"%(url)s\n"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1099,6 +1107,9 @@ msgstr ""
 msgid "Application Name"
 msgstr ""
 
+msgid "Application settings"
+msgstr ""
+
 msgid "Applied Filters"
 msgstr ""
 
@@ -1530,6 +1541,9 @@ msgstr ""
 msgid "Buyer rating"
 msgstr ""
 
+msgid "Buyer settings"
+msgstr ""
+
 msgid "Buyer's Agreement"
 msgstr ""
 
@@ -1887,6 +1901,9 @@ msgid "Collection Value Range"
 msgstr ""
 
 msgid "Collection item not found"
+msgstr ""
+
+msgid "Collection settings"
 msgstr ""
 
 msgid "Comment for feedback"
@@ -2375,6 +2392,9 @@ msgid "Details on our invoicing and cancellation processes are available here:"
 msgstr ""
 
 msgid "Details/History:"
+msgstr ""
+
+msgid "Developer settings"
 msgstr ""
 
 msgid "Developers Settings"
@@ -3364,6 +3384,12 @@ msgstr ""
 msgid "Here are the details of your order:"
 msgstr ""
 
+#, python-format
+msgid ""
+"Here is a link to the comment that mentions you:\n"
+"        <a href=\"%(url)s\">%(url)s</a>"
+msgstr ""
+
 msgid "Here is a summary of your account activity since your last invoice:"
 msgstr ""
 
@@ -3798,6 +3824,14 @@ msgid "In friends"
 msgstr ""
 
 msgid "In grams. Must be a non-negative integer."
+msgstr ""
+
+#, python-format
+msgid "In the comment, %(author)s wrote:"
+msgstr ""
+
+#, python-format
+msgid "In the comment, <a href=\"%(author_url)s\">%(author)s</a> wrote:"
 msgstr ""
 
 msgid "In your"
@@ -4241,6 +4275,9 @@ msgid "Label, Z-A"
 msgstr ""
 
 msgid "Labels"
+msgstr ""
+
+msgid "Labs settings"
 msgstr ""
 
 msgid "Large Covers"
@@ -4975,13 +5012,18 @@ msgstr ""
 msgid "New (rev: %(curr_rev)s)"
 msgstr ""
 
+#, python-format
+msgid "New Blog Comment Mention: %(blog_title)s"
+msgstr ""
+
 msgid "New Buyer"
 msgstr ""
 
 msgid "New Fees:"
 msgstr ""
 
-msgid "New Forum Mention"
+#, python-format
+msgid "New Forum Mention: %(thread_title)s"
 msgstr ""
 
 msgid "New List"
@@ -5277,6 +5319,9 @@ msgid "Notification"
 msgstr ""
 
 msgid "Notification Settings"
+msgstr ""
+
+msgid "Notification settings"
 msgstr ""
 
 msgid "Notify Me"
@@ -6140,6 +6185,9 @@ msgid "Privacy Policy"
 msgstr "Adatvédelem"
 
 msgid "Privacy Settings"
+msgstr ""
+
+msgid "Privacy settings"
 msgstr ""
 
 msgid "Private"
@@ -7166,6 +7214,9 @@ msgid "Seller not responding?"
 msgstr ""
 
 msgid "Seller rating"
+msgstr ""
+
+msgid "Seller settings"
 msgstr ""
 
 msgid "Seller to provide"
@@ -9116,6 +9167,9 @@ msgstr ""
 msgid "User is not a member."
 msgstr ""
 
+msgid "User settings"
+msgstr ""
+
 msgid "Username"
 msgstr ""
 
@@ -9150,6 +9204,9 @@ msgid "Verify the item matches the information on"
 msgstr ""
 
 msgid "Versions"
+msgstr ""
+
+msgid "Video updates are temporarily disabled."
 msgstr ""
 
 msgid "Video: How to list an item for sale on Discogs"
@@ -9745,6 +9802,9 @@ msgstr ""
 msgid "When I add a release to my wantlist"
 msgstr ""
 
+msgid "When I am mentioned in a comment on the Discogs blog"
+msgstr ""
+
 msgid "When I am mentioned in a forum thread"
 msgstr ""
 
@@ -10233,6 +10293,21 @@ msgid "You have been invited to join:"
 msgstr ""
 
 msgid "You have been logged out."
+msgstr ""
+
+#, python-format
+msgid ""
+"You have been mentioned in a comment on the Discogs blog entry\n"
+"        titled \"%(blog_title)s\"."
+msgstr ""
+
+#, python-format
+msgid ""
+"You have been mentioned in a comment on the Discogs blog entry titled "
+"\"%(blog_title)s\"."
+msgstr ""
+
+msgid "You have been mentioned in the following forum post"
 msgstr ""
 
 msgid "You have been mentioned in the following forum post:"
@@ -11348,6 +11423,9 @@ msgid "within"
 msgstr ""
 
 msgid "write a review"
+msgstr ""
+
+msgid "wrote"
 msgstr ""
 
 msgid "wrote:"

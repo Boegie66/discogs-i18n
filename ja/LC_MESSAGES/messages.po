@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages.po (new)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-05-04 11:50-0700\n"
+"POT-Creation-Date: 2015-05-07 14:10-0700\n"
 "PO-Revision-Date: 2015-02-12 00:44+0900\n"
 "Last-Translator: tosh <tosh@at-vision.jp>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -12,6 +12,14 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
+
+#, python-format
+msgid ""
+"\n"
+"Here is a link to the comment that mentions you:\n"
+"\n"
+"%(url)s\n"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1139,6 +1147,9 @@ msgstr "誰もが、読んで検索し、グループに参加することがで
 msgid "Application Name"
 msgstr "アプリの名前"
 
+msgid "Application settings"
+msgstr ""
+
 msgid "Applied Filters"
 msgstr "利用しているフィルタ"
 
@@ -1582,6 +1593,9 @@ msgstr "買い手がこの注文をアーカイブしました。"
 msgid "Buyer rating"
 msgstr "買い手の評価"
 
+msgid "Buyer settings"
+msgstr ""
+
 msgid "Buyer's Agreement"
 msgstr "買い手の規約"
 
@@ -1948,6 +1962,9 @@ msgstr "コレクションの価格帯"
 
 msgid "Collection item not found"
 msgstr "コレクションのアイテムが見つかりません"
+
+msgid "Collection settings"
+msgstr ""
 
 msgid "Comment for feedback"
 msgstr "フィードバックのコメント"
@@ -2442,6 +2459,9 @@ msgstr "請求やキャンセルの方法についての詳細はこちらをご
 
 msgid "Details/History:"
 msgstr "詳細/履歴: "
+
+msgid "Developer settings"
+msgstr ""
 
 msgid "Developers Settings"
 msgstr "開発者の設定"
@@ -3459,6 +3479,12 @@ msgstr "ヘルプが必要です。"
 msgid "Here are the details of your order:"
 msgstr "お客様の注文の詳細: "
 
+#, python-format
+msgid ""
+"Here is a link to the comment that mentions you:\n"
+"        <a href=\"%(url)s\">%(url)s</a>"
+msgstr ""
+
 msgid "Here is a summary of your account activity since your last invoice:"
 msgstr "前回請求時から現在までのアカウントご利用状況となります。"
 
@@ -3960,6 +3986,14 @@ msgstr "友達に"
 msgid "In grams. Must be a non-negative integer."
 msgstr "文字列。非負整数である必要があります。"
 
+#, python-format
+msgid "In the comment, %(author)s wrote:"
+msgstr ""
+
+#, python-format
+msgid "In the comment, <a href=\"%(author_url)s\">%(author)s</a> wrote:"
+msgstr ""
+
 msgid "In your"
 msgstr "お客様の、"
 
@@ -4445,6 +4479,9 @@ msgstr "レーベル・A-Z"
 
 msgid "Labels"
 msgstr "レーベル"
+
+msgid "Labs settings"
+msgstr ""
 
 msgid "Large Covers"
 msgstr "大きなカバー"
@@ -5188,13 +5225,18 @@ msgstr "シェアしない"
 msgid "New (rev: %(curr_rev)s)"
 msgstr "新 (rev: %(curr_rev)s)"
 
+#, python-format
+msgid "New Blog Comment Mention: %(blog_title)s"
+msgstr ""
+
 msgid "New Buyer"
 msgstr ""
 
 msgid "New Fees:"
 msgstr "新しい手数料: "
 
-msgid "New Forum Mention"
+#, python-format
+msgid "New Forum Mention: %(thread_title)s"
 msgstr ""
 
 msgid "New List"
@@ -5497,6 +5539,9 @@ msgstr "通知"
 
 msgid "Notification Settings"
 msgstr "通知設定"
+
+msgid "Notification settings"
+msgstr ""
 
 msgid "Notify Me"
 msgstr "自分に通知する"
@@ -6392,6 +6437,9 @@ msgstr "プライバシーポリシー"
 
 msgid "Privacy Settings"
 msgstr "プライバシー設定"
+
+msgid "Privacy settings"
+msgstr ""
 
 msgid "Private"
 msgstr "プライベート"
@@ -7430,6 +7478,9 @@ msgstr "出品者から返事がありませんか？"
 
 msgid "Seller rating"
 msgstr "出品者の評価"
+
+msgid "Seller settings"
+msgstr ""
 
 msgid "Seller to provide"
 msgstr "出品者が提供する項目"
@@ -9453,6 +9504,9 @@ msgstr "このユーザはすでに%sリストに登録されています。"
 msgid "User is not a member."
 msgstr "このユーザはメンバーではありません。"
 
+msgid "User settings"
+msgstr ""
+
 msgid "Username"
 msgstr "ユーザネーム"
 
@@ -9492,6 +9546,9 @@ msgstr "アイテムの詳細が正しいことを確認する："
 
 msgid "Versions"
 msgstr "バージョン"
+
+msgid "Video updates are temporarily disabled."
+msgstr ""
 
 msgid "Video: How to list an item for sale on Discogs"
 msgstr "動画: Discogsへの出品方法"
@@ -10124,6 +10181,9 @@ msgstr "コレクションにリリースを追加した時に"
 msgid "When I add a release to my wantlist"
 msgstr "ほしい物リストにリリースを追加した時に"
 
+msgid "When I am mentioned in a comment on the Discogs blog"
+msgstr ""
+
 msgid "When I am mentioned in a forum thread"
 msgstr ""
 
@@ -10642,6 +10702,21 @@ msgstr "への招待が届きました。"
 
 msgid "You have been logged out."
 msgstr "ログアウトしています。"
+
+#, python-format
+msgid ""
+"You have been mentioned in a comment on the Discogs blog entry\n"
+"        titled \"%(blog_title)s\"."
+msgstr ""
+
+#, python-format
+msgid ""
+"You have been mentioned in a comment on the Discogs blog entry titled "
+"\"%(blog_title)s\"."
+msgstr ""
+
+msgid "You have been mentioned in the following forum post"
+msgstr ""
 
 msgid "You have been mentioned in the following forum post:"
 msgstr ""
@@ -11796,6 +11871,9 @@ msgstr "内"
 
 msgid "write a review"
 msgstr "レビューを書く"
+
+msgid "wrote"
+msgstr ""
 
 msgid "wrote:"
 msgstr "さんは書きました: "
