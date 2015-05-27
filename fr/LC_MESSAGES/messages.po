@@ -15,9 +15,7 @@ msgid "\n"
 "Images must be between %(lower_px_limit)s and %(upper_px_limit)s wide, and less than %(upper_byte_limit)s.\n"
 "Please don't upload images with watermarks, or images of generic sleeves.\n"
 "See "
-msgstr "L'image doit correspondre à la version <strong>exacte</strong> du produit. Par exemple, ne mettez pas l'image du CD à la place du LP.\n"
-"Les formats acceptés sont : .jpg, .gif, .png, et .bmp.\n"
-"La taille des images doit être entre %(lower_px_limit)s et %(upper_px_limit)s, et faire moins de %(upper_byte_limit)s. Merci de ne pas télécharger des images avec des watermarks (filigranes de copyright) ou des pochettes génériques. Voir "
+msgstr ""
 
 #: 
 msgid "\n"
@@ -28,7 +26,7 @@ msgid "\n"
 "as a result. Contact our support staff %(url_2)s) and\n"
 "confirm you understand the violation before they can review the account for\n"
 "possible reactivation."
-msgstr "Evaluation frauduleuse : Utiliser votre propre compte ou un compte secondaire pour laisser un fausse évaluation positive afin d'améliorer votre propre notation (%(url)s) va à l'encontre du règlement de Discogs. Si vous avez effectué une telle opération, votre compte a été suspendu. Contactez notre équipe %(url_2)s) et confirmez que vous compris cette infraction avant que votre compte soit examiné et éventuellement réactivé."
+msgstr ""
 
 #: 
 msgid " (not including shipping)"
@@ -4151,7 +4149,7 @@ msgstr "Si vous avez besoin d'aide, merci de vous reporter au sujet \"Base de do
 #: 
 #, fuzzy
 msgid "If you report a non-abusive image from this page, it <strong>will not</strong> be deleted or removed. Please use the <em>disable image</em> option on the previous page for all other incorrect or updated images."
-msgstr "Si vous signalez une image non abusive sur cette page, elle <strong> ne sera pas<\strong>  supprimée ou retirée. Merci d'utiliser l'option <em>désactiver l'image</em> sur la page précédente pour toute autre images incorrectes ou mises à jour par erreur."
+msgstr "Si vous signalez une image non abusive sur cette page, elle <strong> ne sera pas</strong>  supprimée ou retirée. Merci d'utiliser l'option <em>désactiver l'image</em> sur la page précédente pour toute autre images incorrectes ou mises à jour par erreur."
 
 #: 
 msgid "If you ship to every country, create a policy for the \"Entire World\" destination."
@@ -4494,7 +4492,7 @@ msgstr "Facture pour"
 
 #: 
 msgid "Invoice for %(invoice_date)s"
-msgstr "Facture du (invoice_date)s\n"
+msgstr "Facture du (invoice_date)s"
 
 #: 
 msgid "Invoices"
