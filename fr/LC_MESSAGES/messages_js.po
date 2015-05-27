@@ -1,4 +1,3 @@
-
 msgid ""
 msgstr ""
 "Project-Id-Version: V2 messages_js.po\n"
@@ -7,70 +6,43 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: fr <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "Generated-By: Babel 1.3\n"
 
 msgid ""
-"<%= filename %> is an unsupported format. Please upload a .jpg, .png, "
-".gif, or .bmp."
+"<%= filename %> is an unsupported format. Please upload a .jpg, .png, .gif, "
+"or .bmp."
 msgstr ""
-"<%= filename %> est un fichier illisible. Téléchargez un fichier au "
-"format. jpg, .png, .gif, or .bmp."
-
-msgid "<%= quantity %> from <%= currency %>"
-msgstr ""
+"<%= filename %> est un fichier illisible. Téléchargez un fichier au format. "
+"jpg, .png, .gif, or .bmp."
 
 msgid "<%= releaseId %> is invalid. Release IDs should only contain numbers."
 msgstr ""
 "<%= releaseId %> n'est pas valide. Ces IDs ne doivent contenir que des "
 "chiffres."
 
-msgid "A nearly perfect record. The record should show no obvious signs of wear."
+msgid ""
+"A nearly perfect record. The record should show no obvious signs of wear."
 msgstr "Le disque est presque parfait. Il ne montre aucun signe d'usure."
 
-msgid "ANV"
-msgstr "ANV"
-
 msgid ""
-"Absolutely perfect in every way. Certainly never been played. Should be "
-"used sparingly as a grade, If at all."
+"Absolutely perfect in every way. Certainly never been played. Should be used "
+"sparingly as a grade, If at all."
 msgstr ""
-"Absolument parfait. Il n'a probablement jamais été utilisé, ou très peu "
-"le cas échéant."
+"Absolument parfait. Il n'a probablement jamais été utilisé, ou très peu le "
+"cas échéant."
 
 msgid "Accepted Fields"
 msgstr "Champs acceptés"
 
-msgid "Add"
-msgstr "Ajouter"
-
-msgid "Add ANV"
-msgstr "Ajouter ANV"
-
-msgid "Add Artist Per Track"
-msgstr ""
-
-msgid "Add Credit Per Track"
-msgstr ""
-
-msgid "Add Description"
-msgstr "Ajouter description"
-
-msgid "Add Release"
-msgstr "Ajouter Référence"
-
+#. Vérifier le terme sub-track
 #, fuzzy
 msgid "Add Sub-Track"
 msgstr "Ajouter un sous-titre"
-
-msgid "Add Tracks"
-msgstr "Ajouter des titres"
-
-msgid "Add a module"
-msgstr ""
 
 msgid "Add artist"
 msgstr "Ajouter un artiste"
@@ -102,9 +74,6 @@ msgstr "Ajouter <%= preview.title %> à votre collection."
 msgid "Added <%= preview.title %> to your wantlist."
 msgstr "Ajouter <%= preview.title %> à votre wantlist."
 
-msgid "Advanced Search"
-msgstr "Recherche avancée"
-
 msgid "Alert"
 msgstr "Alerte."
 
@@ -119,11 +88,11 @@ msgid "An unknown error occurred (code <%= status %>)"
 msgstr "Erreur inconnue (code <%= status %>)"
 
 msgid ""
-"Are you certain you wish to change the format? Any descriptions in the "
-"row will be removed."
+"Are you certain you wish to change the format? Any descriptions in the row "
+"will be removed."
 msgstr ""
-"Etes-vous sûr de vouloir changer le format ? Toutes les descriptions "
-"seront effacées."
+"Etes-vous sûr de vouloir changer le format ? Toutes les descriptions seront "
+"effacées."
 
 msgid "Are you certain you would like to delete this review?"
 msgstr "Etes-vous sûr de vouloir supprimer cet avis ?"
@@ -149,34 +118,19 @@ msgstr "Etes-vous sûr de ne plus vouloir le partager ?"
 msgid "Are you sure?"
 msgstr "Etes-vous sûr ?"
 
-msgid "Artist Name Variation (ANV)"
-msgstr "Variation du nom d'artiste (ANV)"
-
-msgid "Artists"
-msgstr "Artistes"
-
 msgid "Audio not found"
 msgstr "Fichier audio non trouvé."
 
-msgid "Auto-number Tracks"
-msgstr ""
-
 msgid "Auto-saved draft <%= link %> at <%= time %>"
 msgstr "Auto-enregistrement du Brouillon <%= link %> à <%= time %>"
-
-msgid "Barcodes and Other Identifiers"
-msgstr "Codes-Barres et autres identifiants"
-
-msgid "Before you submit"
-msgstr "Avant de soumettre"
 
 #, fuzzy
 msgid ""
 "Can be put onto a turntable and will play through without skipping. "
 "Significant surface noise, scratches and visible groove wear."
 msgstr ""
-"Peut-être joué sur une platine sans sauter. Rayures et usures sur la "
-"surface visible."
+"Peut-être joué sur une platine sans sauter. Rayures et usures sur la surface "
+"visible."
 
 msgid "Cancel"
 msgstr "Annuler"
@@ -184,41 +138,17 @@ msgstr "Annuler"
 msgid "Cancel Order"
 msgstr "Annuler la commande"
 
-msgid "Capitalization may be wrong, is this correct?"
-msgstr "L'écriture en majuscules est-elle correcte ?"
-
-msgid "Catalog Number"
-msgstr "Numéro de catalogue"
-
-msgid "Change"
-msgstr "Changer"
-
-msgid "Check our Twitter feed for updates"
-msgstr ""
-
 msgid "Checking"
 msgstr "Vérification"
 
 msgid "Click <%= saveButton => again to save anyway."
 msgstr "Cliquez de nouveau sur <%= saveButton => pour sauvegarder."
 
-msgid "Click to choose file"
-msgstr ""
-
 msgid "Close"
 msgstr "Fermer"
 
-msgid "Collapse"
-msgstr "Fermer"
-
-msgid "Companies, etc."
-msgstr "Entreprises, etc."
-
 msgid "Confirm"
 msgstr "Confirmer"
-
-msgid "Country"
-msgstr "Pays"
 
 msgid "Create"
 msgstr "Créer"
@@ -229,17 +159,8 @@ msgstr "Créer une Référence Principale"
 msgid "Created draft <%= link %> at <%= time %>"
 msgstr "Brouillon <%= link %> créé à <%= time %>"
 
-msgid "Credits"
-msgstr "Crédits"
-
 msgid "Customize This Page"
 msgstr "Personnalisez cette page"
-
-msgid "Date"
-msgstr "Date"
-
-msgid "Delete"
-msgstr ""
 
 msgid "Deleting"
 msgstr "Suppression"
@@ -248,50 +169,20 @@ msgstr "Suppression"
 msgid "Delivery in <%= label %>"
 msgstr "Livraison en <%= label %>"
 
-msgid "Description"
-msgstr "Description"
-
-msgid "Disable"
-msgstr ""
-
-msgid "Disabled"
-msgstr ""
-
 msgid "Discogs Alert"
 msgstr "Alerte Discogs"
 
 msgid "Does not exist: <%= id %>"
 msgstr "Il n'existe pas de : <%= id %>"
 
-msgid "Drag and drop file or click to browse"
-msgstr ""
-
-msgid "Edit Draft"
-msgstr "Modifier brouillon"
-
 msgid "Edit Master Release"
 msgstr "Editer une Référence Principale"
-
-msgid "Edit Release"
-msgstr "Modifier Référence"
-
-msgid "Enable"
-msgstr ""
 
 msgid "Error"
 msgstr "Erreur"
 
-msgid "Errors"
-msgstr "Erreurs"
-
 msgid "European Union"
 msgstr "Union Européenne"
-
-msgid "Everything"
-msgstr "Tout"
-
-msgid "Expand"
-msgstr "Ouvrir"
 
 msgid "Failed to generate preview."
 msgstr "L'aperçu ne peut être généré."
@@ -302,26 +193,8 @@ msgstr "Le Brouillon n'a pu être enregistré."
 msgid "Feedback Sent"
 msgstr "Evaluation envoyée"
 
-msgid "Format"
-msgstr "Format"
-
-msgid "Free Text"
-msgstr "Texte libre"
-
 msgid "Generating Preview"
 msgstr "Generation de l'aperçu"
-
-msgid "Genres"
-msgstr "Genres"
-
-msgid "Get help"
-msgstr ""
-
-msgid "Heading"
-msgstr "Titre"
-
-msgid "Help!"
-msgstr ""
 
 msgid "Hide Credits"
 msgstr "Masquer les crédits"
@@ -329,18 +202,13 @@ msgstr "Masquer les crédits"
 msgid "Hide actions"
 msgstr "Masquer les actions"
 
-msgid "Ignore"
-msgstr "Ignorer"
-
-msgid "Index Track"
-msgstr "Piste d'index"
-
 msgid "Insert Heading"
 msgstr "Insérer le titre"
 
 msgid "Insert Index Track"
 msgstr "Insérer l'index des titres"
 
+#. Vérifier le terme sub track
 #, fuzzy
 msgid "Insert Sub-Track"
 msgstr "Insérer un sous-titre"
@@ -351,33 +219,13 @@ msgstr "Insérer le titre"
 msgid "Items added to your collection"
 msgstr "Articles ajoutés à votre Collection"
 
-msgid "Join"
-msgstr "Rejoindre"
-
-msgid "Just remove from order"
-msgstr "Il suffit de retirer de la commande"
-
-msgid "Label"
-msgstr "Label"
-
-msgid "Label, Company, Catalog Number, Etc."
-msgstr "Label, Entreprise, Numéro de Catalogue, etc."
-
-msgid "Labels"
-msgstr "Labels"
-
+#. Vérifier en contexte
 #, fuzzy
 msgid "Less"
 msgstr "Moins"
 
 msgid "Load next"
 msgstr "Charger le suivant"
-
-msgid "Loading"
-msgstr ""
-
-msgid "Make End Of Index Track"
-msgstr "Indiquer la fin de la piste d'index"
 
 msgid "Make End of Index Track"
 msgstr "Terminer l'index des titres"
@@ -386,8 +234,8 @@ msgid "Make an Offer"
 msgstr "Faire une offre"
 
 msgid ""
-"Master release saved successfully and will be processed soon. Please "
-"refresh the page in a minute to see the updated discography."
+"Master release saved successfully and will be processed soon. Please refresh "
+"the page in a minute to see the updated discography."
 msgstr ""
 "La Référence Principale a été sauvegardée avec succès et va être traitée "
 "rapidement. Merci de rafraîchir la page pour voir la discographie mise à "
@@ -396,6 +244,7 @@ msgstr ""
 msgid "More"
 msgstr "Plus"
 
+#. Déplacer
 #, fuzzy
 msgid "Move"
 msgstr "Déplacer"
@@ -403,17 +252,8 @@ msgstr "Déplacer"
 msgid "Move Item to:"
 msgstr "Déplacer l'article vers :"
 
-msgid "Name"
-msgstr "Nom"
-
-msgid "No data points to graph"
-msgstr "Pas de points de données à représenter graphiquement"
-
 msgid "Okay"
 msgstr "D'accord"
-
-msgid "Open In New Window"
-msgstr "Ouvrir dans une nouvelle fenêtre"
 
 msgid "Place order"
 msgstr "Confirmer la commande"
@@ -424,54 +264,16 @@ msgstr "Confirmez la commande et payez maintenant"
 msgid "Placing order..."
 msgstr "Commande en cours de confirmation..."
 
-msgid ""
-"Please check all artist links. If the artist is a legitimate new entry "
-"for the database, please list them in the <em>Submission Notes</em> so "
-"other users can check."
-msgstr ""
-"Veuillez vérifier tous les liens de l'artiste. Si l'artiste est une "
-"nouvelle entrée légitime pour la base de données, veuillez les lister "
-"dans les <em>notes de submission</em> afin que les autres utilisateurs "
-"puissent les vérifier."
-
-msgid ""
-"Please check all label links. If the label is a legitimate new entry for "
-"the database, please list them in the <em>Submission Notes</em> so other "
-"users can check."
-msgstr ""
-"Veuillez vérifier tous les liens du label. Si le label est une nouvelle "
-"entrée légitime pour la base de données, veuillez les lister dans les "
-"<em>notes de submission</em> afin que les autres utilisateurs puissent "
-"les vérifier."
-
-msgid ""
-"Please check the release(s) above to make sure that you are not "
-"submitting a duplicate."
-msgstr ""
-"Veuillez vérifier la(les) référence(s) au-dessus afin d'être sûr de ne "
-"pas soumettre un duplicata."
-
-msgid ""
-"Please check these warning(s) against your submission, and if needed the "
-"<%= startTag1 %>Submission Guidelines<%= endTag1 %>. If you have verified"
-" a warning is not applicable to your submission, please tick the box to "
-"clear it, otherwise please correct the error. If there are any warnings, "
-"please write a short explanation in the Submission Notes. The more "
-"information you can give at this stage, the easier and quicker your "
-"submission can be processed and accepted to the database.  If you have "
-"any queries or problems, please save this submission to your drafts, and "
-"ask in the <%= startTag2 %>Adding / Updating Forum Topic<%= endTag2 %>. "
-"Thank you!"
-msgstr ""
-
 msgid "Please choose a file to upload"
 msgstr "Sélectionnez le fichier à télécharger"
 
 msgid "Please enter <%= n %> unique Release IDs."
-msgstr "Merci d'entrer <%= n %> un numéro d'identification de référence unique."
+msgstr ""
+"Merci d'entrer <%= n %> un numéro d'identification de référence unique."
 
 msgid "Please enter <%= n %> valid Release IDs."
-msgstr "Merci d'entrer <%= n %> un numéro d'identification de référence valide."
+msgstr ""
+"Merci d'entrer <%= n %> un numéro d'identification de référence valide."
 
 msgid "Please enter a Key Release ID"
 msgstr "Merci d'entrer le numéro d'identification d'une Référence-Clef"
@@ -481,8 +283,8 @@ msgstr "Merci d'entrer un titre."
 
 msgid "Please enter at least one Release ID in addition to the Key Release ID."
 msgstr ""
-"Merci de saisir au moins un numéro d'identification pour la Référence, en"
-" complément du numéro d'identification de la Référence-Clef."
+"Merci de saisir au moins un numéro d'identification pour la Référence, en "
+"complément du numéro d'identification de la Référence-Clef."
 
 msgid "Please enter your Release IDs. Be sure to include the Key Release ID."
 msgstr ""
@@ -514,11 +316,13 @@ msgstr "Poster un commentaire"
 msgid "Posting"
 msgstr "Post en cours d'envoi"
 
-msgid "Preview"
-msgstr "Aperçu"
-
-msgid "Preview / Submit"
-msgstr "Aperçu/Soumettre"
+#, fuzzy
+msgid ""
+"Press OK to report that this list contravenes the <a href=\"http://www."
+"discogs.com/help/lists.html\">Discogs List guidelines</a>."
+msgstr ""
+"Validez sur OK pour signaler que cette liste est contraire aux <a href="
+"\"http://www.discogs.com/help/lists.html\">instructions de Discogs</a>."
 
 msgid "Preview Loading"
 msgstr "Aperçu en cours d'enregistrement"
@@ -532,72 +336,27 @@ msgstr "Problème pour l'envoi de l'Evaluation"
 msgid "Processing"
 msgstr "En cours de traitement"
 
-msgid "Qty:"
-msgstr "Qté:"
-
 #, fuzzy
 msgid "Ranges overlap or are ordered incorrectly"
 msgstr "Les plages se chevauchent ou sont ordonnés de façon incorrectes."
 
-msgid "Rate this release"
-msgstr "Évaluez cette référence"
-
-msgid "Rate this release <%- n %> star."
-msgid_plural "Rate this release <%- n %> stars."
-msgstr[0] ""
-msgstr[1] ""
-
-msgid "Read and understand the <%= startTag %>Submission Guide<%= endTag %>"
-msgstr ""
-
 #, fuzzy
 msgid ""
-"Record is cracked, badly warped, or won't play through without skipping "
-"or repeating."
+"Record is cracked, badly warped, or won't play through without skipping or "
+"repeating."
 msgstr ""
-"Le disque est fissuré, rayé ou gondolé, ou ne peut être joué sans sauter "
-"ou répétition."
-
-msgid "Release Notes"
-msgstr "Notes de l'article"
+"Le disque est fissuré, rayé ou gondolé, ou ne peut être joué sans sauter ou "
+"répétition."
 
 msgid "Release not found. Please try another Release ID."
-msgstr "Référence non trouvée. Merci d'essayer un nouveau numéro d'identification."
-
-msgid "Released"
-msgstr "Sorti"
-
-msgid "Releases"
-msgstr "Références"
+msgstr ""
+"Référence non trouvée. Merci d'essayer un nouveau numéro d'identification."
 
 msgid "Remove"
 msgstr "Supprimer"
 
 msgid "Remove <%= username %> from your friends list?"
 msgstr "Supprimer <%= username %> de votre liste d'amis ?"
-
-msgid "Remove ANV"
-msgstr "Supprimer l'ANV"
-
-msgid "Remove Artist"
-msgstr "Supprimer l'artiste"
-
-msgid "Remove Description"
-msgstr "Supprimer la description"
-
-msgid "Remove Item"
-msgid_plural "Remove Items"
-msgstr[0] "Supprimer l'article"
-msgstr[1] "Supprimer les articles"
-
-msgid "Remove from order and inventory"
-msgstr "Supprimer de la commande et de l'inventaire"
-
-msgid "Remove from order and relist"
-msgstr "Supprimer de la commande et relister"
-
-msgid "Remove rating"
-msgstr "Supprimer l'évaluation"
 
 msgid "Remove this shipping method?"
 msgstr "Supprimer ce mode d'expédition ?"
@@ -608,11 +367,10 @@ msgstr "Supprimer cette règle d'éxpédition ?"
 msgid "Replying"
 msgstr "Répondre"
 
-msgid "Report Abuse"
-msgstr ""
-
-msgid "Role"
-msgstr "Role"
+#. Contexte
+#, fuzzy
+msgid "Reported"
+msgstr "Signalé"
 
 msgid "Save"
 msgstr "Enregistrer"
@@ -620,17 +378,8 @@ msgstr "Enregistrer"
 msgid "Save Changes"
 msgstr "Enregistrer les changements"
 
-msgid "Save Draft"
-msgstr "Sauvegarder le brouillon"
-
 msgid "Save and Continue"
 msgstr "Enregistrer et continuer"
-
-msgid "Saved Draft"
-msgstr "Brouillon sauvegardé"
-
-msgid "Saved draft"
-msgstr "Brouillon sauvegardé"
 
 msgid "Saved draft <%= link %> at <%= time %>"
 msgstr "Brouillon enregistré <%= link %> à <%= time %>"
@@ -638,23 +387,13 @@ msgstr "Brouillon enregistré <%= link %> à <%= time %>"
 msgid "Saving"
 msgstr "Enregistrement en cours"
 
-msgid "Saving Draft"
-msgstr "Sauvegarde du brouillon"
-
-msgid "Search"
-msgstr ""
-
-msgid "Search artists, albums and more..."
-msgstr ""
-
-msgid "Search in new window"
-msgstr "Rechercher dans une nouvelle fenêtre"
-
 msgid "Send Feedback"
 msgstr "Evaluation envoyée"
 
-msgid "Send Refund"
-msgstr ""
+#. Contexte : envoyer un rapport ou rapport envoyé ?
+#, fuzzy
+msgid "Send Report"
+msgstr "Rapport envoyé"
 
 msgid "Share"
 msgstr "Partager"
@@ -674,114 +413,58 @@ msgstr "Expédition et termes de paiement"
 msgid "Show Credits"
 msgstr "Montrer les crédits"
 
+#. Contexte
 #, fuzzy
 msgid "Show actions"
 msgstr "Montrer les actions"
 
-msgid "Show less"
-msgstr "Montrer moins"
-
-msgid "Show more"
-msgstr "Montrer plus"
-
 msgid ""
 "Some mobile devices will not allow playback until you first activate the "
-"YouTube player by tapping on it. If the video is not loading, refresh the"
-" page, then tap on the player."
+"YouTube player by tapping on it. If the video is not loading, refresh the "
+"page, then tap on the player."
 msgstr ""
-"Certains appareils mobiles ne permettent pas la lecture si vous n'activez"
-" pas d'abord le lecteur YouTube en appuyant dessus. Si la vidéo ne se "
-"charge pas , actualisez la page, puis appuyez sur le player."
-
-msgid "Sorry, this page could not be found."
-msgstr ""
-
-msgid "Strict Search"
-msgstr "Recherche stricte"
-
-msgid "Styles"
-msgstr "Styles"
-
-msgid "Sub-Track"
-msgstr "Sous-piste"
+"Certains appareils mobiles ne permettent pas la lecture si vous n'activez "
+"pas d'abord le lecteur YouTube en appuyant dessus. Si la vidéo ne se charge "
+"pas , actualisez la page, puis appuyez sur le player."
 
 msgid "Submission Form Keyboard Shortcuts"
 msgstr "Formulaire de suggestions pour les raccourcis clavier"
 
-msgid "Submission Notes"
-msgstr "Notes de soumission"
-
-msgid "Submission Notes (Required)"
-msgstr ""
-
 msgid "Submission notes are required"
 msgstr "Les notes sur la proposition sont requises."
 
-msgid "Submit"
-msgstr "Soumettre"
-
+#. Se reporter à Référence   grading CDandLP https://docs.google.com/spreadsheets/d/168AD1ogmXHnSz5e2iGl_4aiojpV3HciuRmHklJl1d4w/edit#gid=338079440
 #, fuzzy
 msgid ""
 "Surface noise will be evident upon playing... but will not overpower the "
 "music. Groove wear will start to be noticeable, as will light scratches."
 msgstr ""
 "La qualité sonore lors de la lecture sera légèrement affectée mais "
-"n'atténuera pas la musique. L'usure des sillons commence à être "
-"perceptible en raisons de rayures lumineuses."
-
-msgid "Test all hyperlinks and make sure they link to the correct artist/label"
-msgstr ""
-"Testez tous les liens hypertextes and soyez sûrs qu'ils pointent vers le "
-"bon artiste ou label"
-
-msgid "The following artists are new to the database"
-msgstr "Les artistes suivants sont nouveaux dans la base de données"
+"n'atténuera pas la musique. L'usure des sillons commence à être perceptible "
+"en raisons de rayures lumineuses."
 
 msgid "The following errors preventing this item from being listed"
 msgstr "Les erreurs suivantes empêchent cet article d'être listé"
 
-msgid "The following labels/companies are new to the database"
-msgstr "Les labels / entreprises suivantes sont nouveaux dans la base de données"
-
 msgid ""
-"There was a problem sending your feedback. Please try again in a few "
-"moments."
+"There was a problem sending your feedback. Please try again in a few moments."
 msgstr ""
-"Votre évaluation n'a pas pu être envoyée. Merci de réessayer dans "
-"quelques instants."
-
-msgid "This field is required (minimum 4 characters)."
-msgstr ""
+"Votre évaluation n'a pas pu être envoyée. Merci de réessayer dans quelques "
+"instants."
 
 msgid "This list is already on your dashboard"
 msgstr "Cette liste est déjà sur votre tableau de bord"
 
 msgid ""
-"This operation will overwrite all track positions with 1, 2, 3, etc. Are "
-"you sure you want to do this?"
+"This operation will overwrite all track positions with 1, 2, 3, etc. Are you "
+"sure you want to do this?"
 msgstr ""
-"Cette opération va numéroter les titres selon l'ordre 1,2,3... Etes vous "
-"sûr de procéder à cette opération ?"
-
-msgid "This release is rated <%- value %> star"
-msgid_plural "This release is rated <%- value %> stars"
-msgstr[0] ""
-msgstr[1] ""
-
-msgid "Title"
-msgstr "Titre"
-
-msgid "Track"
-msgstr "Piste"
-
-msgid "Track Positions"
-msgstr "Positions de piste"
-
-msgid "Tracklist"
-msgstr "Liste de pistes"
+"Cette opération va numéroter les titres selon l'ordre 1,2,3... Etes vous sûr "
+"de procéder à cette opération ?"
 
 msgid "Unable to estimate from release data"
-msgstr "Impossible de faire une estimation à partir des données de la Référence"
+msgstr ""
+"Impossible de faire une estimation à partir des données de la Référence"
 
 msgid "Undo"
 msgstr "Revenir en arrière"
@@ -792,18 +475,6 @@ msgstr "Partage en cours de désactivation..."
 msgid "Update Order"
 msgstr "Mettre à jour la commande"
 
-msgid "Upload CSV File"
-msgstr ""
-
-msgid "Upload Image"
-msgstr ""
-
-msgid "Uploaded by"
-msgstr ""
-
-msgid "View"
-msgstr ""
-
 msgid "View Image"
 msgstr "Voir l'image"
 
@@ -812,8 +483,8 @@ msgstr "Voter et poster un commentaire"
 
 msgid "WARNING: You have made changes since loading this page."
 msgstr ""
-"ATTENTION : vous avez effectué des changements depuis que vous avez "
-"chargé cette page."
+"ATTENTION : vous avez effectué des changements depuis que vous avez chargé "
+"cette page."
 
 msgid "WARNING: You have unsaved changes."
 msgstr "ATTENTION : vos changements n'ont pas été enregistrés."
@@ -825,37 +496,19 @@ msgstr "Attention."
 msgid "Warning: for large tracklists this may significantly hinder performance"
 msgstr "Attention : les tracklists trop long peuvent ne pas apparaître"
 
-msgid "Warnings"
-msgstr "Avertissements"
-
-msgid "We found possible duplicate releases"
-msgstr "Nous avons trouvé des articles probablement dupliqués"
+msgid ""
+"Will show some signs that it was played and otherwise handled by a previous "
+"owner who took good care of it."
+msgstr ""
+"Le disque montre des signes d'utilisation, cependant son ancien propriétaire "
+"en a bien pris soin."
 
 msgid ""
-"We think you may be using some incorrect artists. Please double-check "
-"these to make sure you are using the correct artist"
+"You can't have more than one <%= shippingMethod %> shipping method in the "
+"same policy"
 msgstr ""
-"Nous pensons que vous utilisez peut-être des artistes incorrects. "
-"Veuillez les vérifier afin d'être sûr que vous utilisez le bon artiste."
-
-msgid "What do you want to do with the removed item?"
-msgid_plural "What do you want to do with the removed items?"
-msgstr[0] "Que voulez-vous faire de l'article supprimé ?"
-msgstr[1] "Que voulez-vous faire des articles supprimés ?"
-
-msgid ""
-"Will show some signs that it was played and otherwise handled by a "
-"previous owner who took good care of it."
-msgstr ""
-"Le disque montre des signes d'utilisation, cependant son ancien "
-"propriétaire en a bien pris soin."
-
-msgid ""
-"You can't have more than one <%= shippingMethod %> shipping method in the"
-" same policy"
-msgstr ""
-"Vous ne pouvez pas avoir plus d'un <%= shippingMethod %> mode "
-"d'expédition pour la même règle d'expédition"
+"Vous ne pouvez pas avoir plus d'un <%= shippingMethod %> mode d'expédition "
+"pour la même règle d'expédition"
 
 msgid "You did not choose a rating."
 msgstr "Vous n'avez pas choisi de note."
@@ -882,54 +535,13 @@ msgid "Your changes couldn't be saved. Please try again."
 msgstr "Vos changements n'ont pu être enregistrés. Merci d'essayer de nouveau."
 
 msgid ""
-"Your feedback was sent successfully. Thank you for helping improve "
-"Discogs!"
+"Your feedback was sent successfully. Thank you for helping improve Discogs!"
 msgstr ""
-"Votre Evaluation a été envoyée avec succès. Merci de nous aider à "
-"améliorer la qualité de Discogs."
+"Votre Evaluation a été envoyée avec succès. Merci de nous aider à améliorer "
+"la qualité de Discogs."
 
 msgid "about"
 msgstr "A propos"
 
-msgid "additions"
-msgstr ""
-
-msgid "all versions"
-msgstr "toutes les versions"
-
-msgid "artist"
-msgstr "artiste"
-
-msgid "at"
-msgstr "à"
-
-msgid "barcode or other identifier"
-msgstr "code-barres ou autre identifiant"
-
-msgid "changes"
-msgstr ""
-
-msgid "credit"
-msgstr "crédit"
-
-msgid "deletions"
-msgstr ""
-
-msgid "format"
-msgstr "format"
-
 msgid "generating preview..."
 msgstr "Aperçu en cours d'enregistrement..."
-
-msgid "label"
-msgstr "label"
-
-msgid "not found"
-msgstr "non trouvé"
-
-msgid "tracks"
-msgstr ""
-
-msgid "will be added to the Database"
-msgstr "seront ajoutés à la base de données"
-
